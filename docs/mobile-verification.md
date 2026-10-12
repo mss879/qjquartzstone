@@ -11,6 +11,7 @@ Tested CSS viewport widths of 320, 375, 390, 430, 768, 900 and 1024 pixels, plus
 - Phone and portrait-tablet layouts through 900px use 16px main paragraph copy and a 240svh reversible scroll sequence. Reduced-motion layouts retain the static slab/interior composition.
 - Hero supporting copy sits beside the dark sculpture and clears the heading at every tested width. The collection CTA is right-aligned with a separate space for the scroll cue.
 - Supporting copy was lowered by 24px on phone layouts and rechecked at 320 × 568px and 375 × 844px; it remains clear of both actions.
+- “EARTH TO EVERYDAY.” stacks into two lines through 900px with stronger contrast. Verified at 320, 375, 430, 768 and 900px: banner text stays within its container, and the page has no horizontal overflow. Desktop retains one line. Screenshot: `previews/mobile-about-banner.png`.
 - Mobile scroll cue uses a single-line “Our story” label and a 36px circular arrow, inside a 46px touch target. Verified at 320px and 375px without wrapping or collision with the collection CTA. Desktop retains the original two-line tagline.
 - Short landscape screens place story art and captions side by side, with a darker overlay behind the final caption.
 - Main mobile controls have 44px or larger touch targets; finish selectors are 48px tall.

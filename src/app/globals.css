@@ -129,6 +129,11 @@
 /* Crop the official logo’s transparent side padding without altering the asset. */
 @media(max-width:900px){.menu-toggle{align-items:flex-end;padding:0}.site-header .brand{flex-shrink:0}}
 
+/* Keep the complete transition phrase inside the mobile content width. */
+@media (max-width: 900px) {
+  .about-marquee { font-size: clamp(40px, 15vw, 100px); white-space: normal; line-height: .96; margin-top: 36px; color: #8b8a7f; }
+  .about-marquee > span { display: block; }
+}
 /* The supporting copy sits beside the second sculpture; actions keep their own row. */
 .hero-support-copy { position: absolute; z-index: 4; left: 47.4%; bottom: 111px; font-size: 19px; line-height: 1.17; letter-spacing: -.04em; }
 .scroll-cue-mobile-label { display: none; }
