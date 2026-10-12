@@ -134,7 +134,7 @@
 .scroll-cue-mobile-label { display: none; }
 .scroll-arrow .arrow { width: 18px; height: 18px; transform: rotate(90deg); }
 @media (max-width: 900px) {
-  .hero-support-copy { top: max(355px, calc(33.12vw + 125px)); bottom: auto; left: 43%; right: 6%; font-size: clamp(12px, 4vw, 18px); line-height: 1.35; letter-spacing: -.035em; }
+  .hero-support-copy { top: max(379px, calc(33.12vw + 125px)); bottom: auto; left: 43%; right: 6%; font-size: clamp(12px, 4vw, 18px); line-height: 1.35; letter-spacing: -.035em; }
   .hero-bottom { grid-template-columns: 2fr 3fr; gap: 12px; }
   .hero-intro { min-width: 0; display: flex; justify-content: flex-end; }
   .hero-intro .pill-link { padding-inline: 16px; gap: 16px; font-size: 12px; flex-shrink: 0; }
@@ -145,7 +145,7 @@
   .scroll-cue-mobile-label { display: inline; }
 }
 @media (max-width: 900px) and (max-height: 700px) {
-  .hero-support-copy { top: max(300px, calc(33.12vw + 107px)); }
+  .hero-support-copy { top: max(324px, calc(33.12vw + 107px)); }
 }
 
 /* Mobile uses the same reversible narrative, adapted to a portrait viewport. */
