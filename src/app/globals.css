@@ -131,13 +131,18 @@
 
 /* The supporting copy sits beside the second sculpture; actions keep their own row. */
 .hero-support-copy { position: absolute; z-index: 4; left: 47.4%; bottom: 111px; font-size: 19px; line-height: 1.17; letter-spacing: -.04em; }
+.scroll-cue-mobile-label { display: none; }
+.scroll-arrow .arrow { width: 18px; height: 18px; transform: rotate(90deg); }
 @media (max-width: 900px) {
   .hero-support-copy { top: max(355px, calc(33.12vw + 125px)); bottom: auto; left: 43%; right: 6%; font-size: clamp(12px, 4vw, 18px); line-height: 1.35; letter-spacing: -.035em; }
   .hero-bottom { grid-template-columns: 2fr 3fr; gap: 12px; }
   .hero-intro { min-width: 0; display: flex; justify-content: flex-end; }
   .hero-intro .pill-link { padding-inline: 16px; gap: 16px; font-size: 12px; flex-shrink: 0; }
-  .scroll-cue { gap: 9px; }
-  .scroll-cue > span:last-child { font-size: 8.5px; max-width: 70px; line-height: 1.4; }
+  .scroll-cue { gap: 10px; min-height: 46px; letter-spacing: 0; }
+  .scroll-cue > span:last-child { font-size: 12px; max-width: none; line-height: 1.4; white-space: nowrap; }
+  .scroll-arrow { width: 36px; height: 36px; flex-shrink: 0; border-radius: 50%; }
+  .scroll-cue-desktop-label { display: none; }
+  .scroll-cue-mobile-label { display: inline; }
 }
 @media (max-width: 900px) and (max-height: 700px) {
   .hero-support-copy { top: max(300px, calc(33.12vw + 107px)); }
