@@ -4,11 +4,13 @@ Verified on 12 October 2026 using the local homepage in the in-app browser.
 
 ## Responsive checks
 
-Tested CSS viewport widths of 320, 375, 390, 430, 768, 900 and 1024 pixels. Results are recorded in `mobile-audit.json`.
+Tested CSS viewport widths of 320, 375, 390, 430, 768, 900 and 1024 pixels, plus 844 × 390px landscape. Results are recorded in `mobile-audit.json`.
 
 - No horizontal page overflow or clipped heading text at the tested widths.
 - Footer spans the viewport at every tested width; ARC AI credit remains visible.
-- Phone and portrait-tablet layouts through 900px use 16px paragraph copy and a static slab/interior sequence.
+- Phone and portrait-tablet layouts through 900px use 16px main paragraph copy and a 240svh reversible scroll sequence. Reduced-motion layouts retain the static slab/interior composition.
+- Hero supporting copy sits beside the dark sculpture and clears the heading at every tested width. The collection CTA is right-aligned with a separate space for the scroll cue.
+- Short landscape screens place story art and captions side by side, with a darker overlay behind the final caption.
 - Main mobile controls have 44px or larger touch targets; finish selectors are 48px tall.
 - The slab slider remains 44px tall at desktop/tablet widths as well.
 - Muted text contrast is 5.50:1 against the paper background and 4.76:1 against the contact background.
@@ -23,6 +25,10 @@ Tested CSS viewport widths of 320, 375, 390, 430, 768, 900 and 1024 pixels. Resu
 - Escape closes the dialog and returns focus to its trigger.
 - Keyboard adjustment changes the slab viewing angle.
 - Sample-card selection scrolls to the start of the selected slab view and retains its product code in the enquiry link.
+- At 375 × 844px, native scrolling advances all four material-story chapters: crystal, slab, edge detail, then interior. The stage remains pinned, the slab changes rotation and scale, and the interior reaches full opacity.
+- Reverse scrolling from the interior restores the slab chapter and hides the interior again. Captions and progress follow the same scroll position.
+
+Current screenshots: `previews/mobile-hero-refined.png`, `previews/mobile-story-detail.png`, and `previews/mobile-story-space.png`.
 
 Reduced-motion layouts were reviewed in source; a physical-device or OS-level reduced-motion test was not performed. These checks cover the tested browser/viewports, rather than claiming certification on every mobile device.
 

@@ -14,6 +14,7 @@ const chapters = [
 
 export default function MaterialStory() {
   const section = useRef<HTMLElement>(null);
+  const stage = useRef<HTMLDivElement>(null);
   const sculpture = useRef<HTMLDivElement>(null);
   const slab = useRef<HTMLDivElement>(null);
   const interior = useRef<HTMLDivElement>(null);
@@ -22,13 +23,12 @@ export default function MaterialStory() {
 
   useEffect(() => {
     const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
-    const mobile = window.matchMedia("(max-width: 900px)");
     let animation = 0;
     const update = () => {
       animation = 0;
-      if (!section.current || reducedMotion.matches || mobile.matches) return;
+      if (!section.current || !stage.current || reducedMotion.matches) return;
       const rect = section.current.getBoundingClientRect();
-      const frame = getStoryFrame(getScrollProgress(rect.top, rect.height, window.innerHeight));
+      const frame = getStoryFrame(getScrollProgress(rect.top, rect.height, stage.current.getBoundingClientRect().height));
       if (sculpture.current) {
         sculpture.current.style.opacity = String(frame.sculptureOpacity);
         sculpture.current.style.transform = `translateY(${-frame.progress * 80}px) rotate(${frame.sculptureRotation}deg) scale(${frame.sculptureScale})`;
@@ -52,16 +52,15 @@ export default function MaterialStory() {
     window.addEventListener("scroll", schedule, { passive: true });
     window.addEventListener("resize", schedule);
     reducedMotion.addEventListener("change", schedule);
-    mobile.addEventListener("change", schedule);
     return () => {
       window.removeEventListener("scroll", schedule); window.removeEventListener("resize", schedule);
-      reducedMotion.removeEventListener("change", schedule); mobile.removeEventListener("change", schedule);
+      reducedMotion.removeEventListener("change", schedule);
       cancelAnimationFrame(animation);
     };
   }, []);
 
-  return <section ref={section} className="material-story" aria-label="From natural inspiration to quartz surface to living space">
-    <div className="story-stage">
+  return <section id="material-story" ref={section} className="material-story" aria-label="From natural inspiration to quartz surface to living space">
+    <div ref={stage} className="story-stage">
       <div ref={interior} className="story-interior"><Image src="/images/kitchen-concept.webp" alt="Bianco Calacatta visualized as a waterfall kitchen island in a sunlit tropical home" fill sizes="100vw" /></div>
       <div className="story-topline"><span>A MATERIAL. A WORLD OF POSSIBILITIES.</span><span>QJ / MATERIAL STUDY</span></div>
       <div className="story-art">

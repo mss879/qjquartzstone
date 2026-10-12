@@ -16,7 +16,7 @@ The build uses Webpack and Tailwind's PostCSS integration. Fonts use the system 
 
 ## Design and assets
 
-The homepage follows an editorial white/charcoal/clay palette, five real QJ surfaces, and a continuous raw-quartz → slab → interior scroll sequence. Phone and portrait-tablet layouts through 900px, plus reduced-motion layouts, provide a static material/interior composition. Mobile paragraphs are 16px and key controls have at least 44px touch targets. Responsive checks and interaction results are in `docs/mobile-verification.md`.
+The homepage follows an editorial white/charcoal/clay palette, five real QJ surfaces, and a continuous raw-quartz → slab → interior scroll sequence. Phones and portrait tablets through 900px use a shorter, reversible pinned sequence; short landscape screens place the visual and caption side by side. Reduced-motion layouts provide a static material/interior composition. Main mobile paragraphs are 16px and key controls have at least 44px touch targets. Responsive checks and interaction results are in `docs/mobile-verification.md`.
 
 Every generated visual has a unique placement. Do not recycle generated images between sections or use slab renders for sample thumbnails. This project rule is recorded in `AGENTS.md`.
 

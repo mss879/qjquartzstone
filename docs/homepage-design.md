@@ -18,7 +18,7 @@ Use the official QJ logo and product codes. Company information comes from qjqua
 
 ## Implementation and accessibility
 
-Next.js 16 / React 19 / Tailwind 4. Small client components for navigation, story, products, dialogs and application selection. Native browser scroll, requestAnimationFrame and transforms; no animation framework needed. Resize and motion preference changes refresh the story. Images use local optimized assets with reserved sizes. Keyboard-accessible links, focus-visible styles, native dialog focus management and range control, accessible menu and application state. Mobile layout preserves hierarchy; reduced motion and small screens use a shorter/static story. No fake form submissions.
+Next.js 16 / React 19 / Tailwind 4. Small client components for navigation, story, products, dialogs and application selection. Native browser scroll, requestAnimationFrame and transforms; no animation framework needed. Resize and motion preference changes refresh the story. Progress uses the measured sticky-stage height to keep mobile browser chrome from changing the timeline. Images use local optimized assets with reserved sizes. Keyboard-accessible links, focus-visible styles, native dialog focus management and range control, accessible menu and application state. Mobile uses a shorter 240svh story with a 100svh sticky stage; reduced motion uses a static composition. Short landscape screens use side-by-side art and captions. No fake form submissions.
 
 ## Validation
 
