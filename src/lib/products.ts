@@ -1,0 +1,11 @@
+export const products = [
+  { code: "QJ711", name: "Bianco Calacatta", family: "Quiet elegance", description: "A soft white canvas traced with delicate grey veins. A considered foundation for light-filled interiors.", image: "/images/slab-calacatta.webp", tile: "/images/sample-calacatta.webp", original: "/images/references/bianco-calacatta.jpg", swatch: "calacatta", tone: "White / fine grey veining" },
+  { code: "QJ707N", name: "Statuario", family: "Natural expression", description: "Expressive grey veins move across a bright white surface. A distinctive centrepiece with the character of natural stone.", image: "/images/slab-statuario.webp", tile: "/images/sample-statuario.webp", original: "/images/references/statuario.jpg", swatch: "statuario", tone: "White / expressive grey veining" },
+  { code: "QJ712", name: "Pietra Grey", family: "Depth & contrast", description: "A refined charcoal surface with fine mineral lines. Bring depth, balance and a quiet confidence to your space.", image: "/images/slab-pietra.webp", tile: "/images/sample-pietra.webp", original: "/images/references/pietra-grey.jpg", swatch: "pietra", tone: "Charcoal / subtle mineral veining" },
+  { code: "QJ905", name: "Marble Grey", family: "Mineral movement", description: "Layers of silver-grey mineral character create a richly textured surface. A different expression of stone, with depth in every detail.", image: "/images/slab-marble-grey.webp", tile: "/images/sample-marble-grey.webp", original: "/images/references/qj905.jpg", swatch: "marble-grey", tone: "Silver grey / layered mineral pattern" },
+  { code: "QJ227", name: "Breeze", family: "Understated warmth", description: "Soft cream tones and subtle mineral markings. A quiet, warm surface that lets the architecture—and everyday life—take centre stage.", image: "/images/slab-breeze.webp", tile: "/images/sample-breeze.webp", original: "/images/references/qj227.jpg", swatch: "breeze", tone: "Cream ivory / subtle mineral markings" },
+] as const;
+
+export function sampleEmail(code: string, name: string) {
+  return `mailto:info@qjquartzstone.com?subject=${encodeURIComponent(`Sample enquiry — ${code} ${name}`)}&body=${encodeURIComponent(`Hello QJ,\n\nI would like to enquire about a sample of ${code} ${name}.\n\nProject location:\nApplication:\nContact number:\n\nThank you.`)}`;
+}

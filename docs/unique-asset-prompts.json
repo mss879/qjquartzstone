@@ -1,0 +1,56 @@
+{
+  "tool": "Built-in image_gen",
+  "visualPolicy": "Unique generated asset per placement; do not reuse across sections, cards or thumbnails.",
+  "assets": [
+    {
+      "key": "hero-dark",
+      "path": "public/images/hero-dark.webp",
+      "prompt": "Use case: stylized-concept. Asset type: unique dark quartz sculptural cutout for premium white-theme website. Input reference is QJ712 Pietra Grey, match its charcoal grey fine-grained quartz with tiny sparse white mineral wisps. One bold sculptural solid stone loop, curved like a folded flowing strip twisting into an open horseshoe, NOT the broad white ribbon already generated. Compact asymmetric vertical form with beautiful thickness, realistic polished dark quartz, extraordinary luxury CGI studio photo with soft sunlight highlighting edge. Isolated on a truly transparent background with generous clear margin. No floor, no pedestal, no lettering. Sculpture concept, not a real product."
+    },
+    {
+      "key": "story-mineral",
+      "path": "public/images/story-mineral.webp",
+      "prompt": "Use case: product-mockup. Asset type: unique natural raw quartz specimen cutout for material-to-slab animation. An extraordinary large translucent milky-white raw quartz mineral rock cluster, irregular white crystalline facets, faint warm beige interior inclusions, clean high-end geological specimen photograph, three quarter view. Broad horizontal silhouette, roughly 2 to 1 width to height, genuine raw quartz crystal facets not marble veins. Soft studio daylight, intricate mineral detail, isolated on truly transparent background. No floor, no support, no text, no logo. Object occupies 80 percent of frame, no shadow outside object. This shows quartz as the starting material for an engineered surface."
+    },
+    {
+      "key": "story-surface",
+      "path": "public/images/story-surface.webp",
+      "prompt": "Use case: product-mockup. Asset type: unique quartz slab animation asset. Source reference QJ711 Bianco Calacatta, ivory white with soft delicate thin branching grey veins. Create a single clean long rectangular quartz slab photographed from elevated 40-degree three-quarter view, horizontal slightly inclined like a tabletop floating in space, top polished face and thick narrow front 20mm edge visible. Distinct view from upright catalog slabs. Wide landscape orientation 2:1 panel, perfect sharp rectangular corners. High detail photorealistic studio product rendering, cool soft light on top and warm edge light, truly transparent background, no ground shadow, no pedestal or text. Preserve fine sparse veining and pale base; remove original label."
+    },
+    {
+      "key": "kitchen-secondary",
+      "path": "public/images/kitchen-secondary.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: unique architectural editorial quartz kitchen application image. Source QJ707N Statuario is bright white quartz with bold grey diagonal branching veins. Create a striking contemporary kitchen distinctly different from previous tropical oak kitchen: sculptural white Statuario waterfall island with dark walnut fluted front, deep muted olive cabinetry, white plaster wall, a brass tap, white hanging paper lantern overhead, narrow large opening to a courtyard with an olive tree. 50mm architectural photograph, portrait 4:5, spacious calm composition, soft overcast daylight, subtle gray-green and white palette, island and backsplash are reference quartz. No people or lettering. Illustrative design concept, not real installed project."
+    },
+    {
+      "key": "craft-detail",
+      "path": "public/images/craft-detail.webp",
+      "prompt": "Use case: product-mockup. Asset type: unique tactile stone fabrication close-up image. Reference official QJ905 Marble Grey quartz with dense silver-grey cloudy mineral webbing. Extremely sophisticated macro product photograph of the corner of one precisely cut thick slab and a separate smaller beveled sample resting on it, no full slabs, no room. Camera at 45 degrees focuses on crisp polished edge, dense grey texture and meticulously finished corner, a warm off-white studio background and long elegant afternoon shadows. Portrait 4:5, sculptural architectural product photography, accurate plausible thickness, photorealistic. No text or props. This is a material detail visualization, not a production photograph."
+    },
+    {
+      "key": "sample-calacatta",
+      "path": "public/images/sample-calacatta.webp",
+      "prompt": "Use case: product-mockup. Asset type: unique premium quartz sample-tile photograph for homepage collection card. Official product reference QJ711 Bianco Calacatta pale ivory white, delicate thin light grey branching veins; preserve this surface character closely. Generate a single square solid quartz sample tile 30 by 30cm, 20mm thick, gently angled three-quarter top view resting on a warm off-white matte studio surface, tiny clean beveled edge, exquisite polished texture, soft directional studio sunlight, cast shadow falling right. Sample occupies 75 percent of frame, centered in a square image, full tile visible. No other tiles or objects. Distinct square sample photograph, NOT a long rectangular slab. No letters, labels, logos, yellow bands. Genuine detailed tactile photorealism, suitable for luxury architectural material catalogue."
+    },
+    {
+      "key": "sample-statuario",
+      "path": "public/images/sample-statuario.webp",
+      "prompt": "Use case: product-mockup. Asset type: unique premium quartz sample-tile photograph for homepage collection card. Official product reference QJ707N Statuario milky white with bold blue-grey diagonal broad branching veins; preserve this surface character closely. Generate a single square solid quartz sample tile 30 by 30cm, 20mm thick, gently angled three-quarter top view resting on a warm off-white matte studio surface, tiny clean beveled edge, exquisite polished texture, soft directional studio sunlight, cast shadow falling right. Sample occupies 75 percent of frame, centered in a square image, full tile visible. No other tiles or objects. Distinct square sample photograph, NOT a long rectangular slab. No letters, labels, logos, yellow bands. Genuine detailed tactile photorealism, suitable for luxury architectural material catalogue."
+    },
+    {
+      "key": "sample-pietra",
+      "path": "public/images/sample-pietra.webp",
+      "prompt": "Use case: product-mockup. Asset type: unique premium quartz sample-tile photograph for homepage collection card. Official product reference QJ712 Pietra Grey charcoal grey fine grain with very sparse thin white-grey mineral wisps; preserve this surface character closely. Generate a single square solid quartz sample tile 30 by 30cm, 20mm thick, gently angled three-quarter top view resting on a warm off-white matte studio surface, tiny clean beveled edge, exquisite polished texture, soft directional studio sunlight, cast shadow falling right. Sample occupies 75 percent of frame, centered in a square image, full tile visible. No other tiles or objects. Distinct square sample photograph, NOT a long rectangular slab. No letters, labels, logos, yellow bands. Genuine detailed tactile photorealism, suitable for luxury architectural material catalogue."
+    },
+    {
+      "key": "sample-marble-grey",
+      "path": "public/images/sample-marble-grey.webp",
+      "prompt": "Use case: product-mockup. Asset type: unique premium quartz sample-tile photograph for homepage collection card. Official product reference QJ905 Marble Grey silver-grey cloudy quartz with dense interconnected fine mineral webbing and light rounded patches; preserve this surface character closely. Generate a single square solid quartz sample tile 30 by 30cm, 20mm thick, gently angled three-quarter top view resting on a warm off-white matte studio surface, tiny clean beveled edge, exquisite polished texture, soft directional studio sunlight, cast shadow falling right. Sample occupies 75 percent of frame, centered in a square image, full tile visible. No other tiles or objects. Distinct square sample photograph, NOT a long rectangular slab. No letters, labels, logos, yellow bands. Genuine detailed tactile photorealism, suitable for luxury architectural material catalogue."
+    },
+    {
+      "key": "sample-breeze",
+      "path": "public/images/sample-breeze.webp",
+      "prompt": "Use case: product-mockup. Asset type: unique premium quartz sample-tile photograph for homepage collection card. Official product reference QJ227 Breeze warm cream ivory with very subtle pale beige-grey small flecks and wisps, virtually no bold veining; preserve this surface character closely. Generate a single square solid quartz sample tile 30 by 30cm, 20mm thick, gently angled three-quarter top view resting on a warm off-white matte studio surface, tiny clean beveled edge, exquisite polished texture, soft directional studio sunlight, cast shadow falling right. Sample occupies 75 percent of frame, centered in a square image, full tile visible. No other tiles or objects. Distinct square sample photograph, NOT a long rectangular slab. No letters, labels, logos, yellow bands. Genuine detailed tactile photorealism, suitable for luxury architectural material catalogue."
+    }
+  ]
+}

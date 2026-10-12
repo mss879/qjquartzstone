@@ -1,0 +1,65 @@
+{
+  "tool": "Built-in image_gen",
+  "purpose": "QJ homepage visuals",
+  "companySources": [
+    "https://qjquartzstone.com/",
+    "https://qjquartzstone.com/about-us-quartz-stones",
+    "https://qjquartzstone.com/quartz-stone-collection-sri-lanka",
+    "https://qjquartzstone.com/quartz-stone-production-sri-lanka",
+    "https://qjquartzstone.com/quartz-stone-specifications",
+    "https://qjquartzstone.com/contact-us"
+  ],
+  "assets": [
+    {
+      "key": "hero",
+      "prompt": "Use case: stylized-concept. Asset type: premium quartz company homepage hero cutout. Generate a single exquisite sculptural ribbon made from solid ivory-white quartz stone with delicate thin warm grey mineral veins. One broad continuous stone ribbon curled into a sweeping sculptural loop, like a weightless fluid sheet frozen in stone, with a beautiful folded crest, visibly solid 2cm edge and organic asymmetric shape. Photorealistic luxury product CGI, architectural gallery aesthetic, three-quarter view, soft directional studio sunlight, realistic polished quartz microtexture, restrained grey and warm white palette. Isolated object centered with generous margin on a truly transparent background. No pedestal, no room, no text, no logos, no watermark. Wide composition; object occupies 80 percent of image width. This is an artistic material sculpture, not a branded product.",
+      "path": "public/images/quartz-sculpture.webp"
+    },
+    {
+      "key": "calacatta",
+      "prompt": "Use case: product-mockup. Asset type: ultra high quality quartz slab catalog cutout. Input image 1 is the official QJ711 Bianco Calacatta product reference, preserve its ivory white base and very fine softly branching light grey veining, the vein density and exact material character. Re-create as a photorealistic solid rectangular 3200 by 1600 mm quartz slab, displayed upright in landscape orientation in a dramatic but subtle three-quarter perspective, long front surface visible, left edge and top edge showing genuine 20 mm thickness. Large clean uninterrupted face; remove all original yellow caption and any text. Isolated on genuinely transparent background with no floor or objects. Premium architectural material photography, gentle studio sunlight, immaculate polish, crisp detailed veins. Object fills frame with 8 percent clear margin. No base, no labels, no branding.",
+      "path": "public/images/slab-calacatta.webp"
+    },
+    {
+      "key": "statuario",
+      "prompt": "Use case: product-mockup. Asset type: premium quartz slab catalog cutout. Input image 1 is official QJ707N Statuario quartz: use its milky bright white base with medium blue-grey bold diagonal branching veins, preserve recognizable vein density, not golden veins. Recreate a photorealistic large solid landscape rectangular 3200 by 1600 mm quartz slab standing upright, three quarter perspective showing its front face and 20 mm left edge, no stand, no floor. Highly detailed polished engineered quartz. Clean studio sunlight. Isolated on a genuinely transparent background. Object centered with 8 percent margin. Remove all yellow strip and all text from the reference. No branding, no labels, no other objects.",
+      "path": "public/images/slab-statuario.webp"
+    },
+    {
+      "key": "pietra",
+      "prompt": "Use case: product-mockup. Asset type: premium quartz slab product cutout. Input image 1 is official QJ712 Pietra Grey reference, retain the medium charcoal grey finely grained base and sparse almost threadlike pale grey and white veining, do not invent bold white marble veins. Recreate a clean high resolution photorealistic solid rectangular quartz slab 3200 by 1600 mm, standing upright in landscape orientation, subtle three-quarter perspective, face and 20 mm edge visible. Studio architectural material photography, polished tactile surface, realistic subtle specular highlights. Isolated on a genuinely transparent background, no pedestal, no floor, no props. Remove all source text and yellow strip. Slab centered with 8 percent margin. No text or logo.",
+      "path": "public/images/slab-pietra.webp"
+    },
+    {
+      "key": "marble-grey",
+      "prompt": "Use case: product-mockup. Asset type: premium quartz slab catalog cutout. Official reference is QJ905 Marble Grey; preserve this distinctive pale silver grey surface with dense fine interconnected cloudy grey webbing and rounded mineral patches. Very different from linear-veined Calacatta. Generate a large solid rectangular 3200 by 1600 mm engineered quartz slab standing upright in landscape at a subtle three-quarter perspective, visible 20mm edge and uninterrupted face. Extremely photorealistic detailed studio photography, bright soft light, polished tactile material. Truly transparent background. No floor, props, support, pedestal or text. Remove all yellow strip and lettering. Center object with 8 percent clear margin.",
+      "path": "public/images/slab-marble-grey.webp"
+    },
+    {
+      "key": "breeze",
+      "prompt": "Use case: product-mockup. Asset type: premium quartz slab catalog cutout. Input image is official QJ227 Breeze; preserve warm soft cream ivory base with very faint beige mottling and understated wispy pale gold-grey small mineral markings, no bold grey marble veins. Generate a high-resolution photorealistic solid rectangular landscape 3200 by 1600 mm engineered quartz slab at subtle three-quarter perspective, standing upright, face and 20mm left edge visible, immaculately polished yet subtle surface. Product studio photography with natural soft warm light. Genuinely transparent background, no floor, objects or pedestal. Remove source yellow strip and all text. Center slab with 8 percent margin. No lettering or logos.",
+      "path": "public/images/slab-breeze.webp"
+    },
+    {
+      "key": "kitchen",
+      "prompt": "Use case: photorealistic-natural. Asset type: wide editorial architectural interior photograph for a premium quartz website. Input image 1 is the QJ711 Bianco Calacatta stone reference; use its pale ivory quartz and fine grey branching veins for the kitchen island and backsplash. Create a breathtaking contemporary tropical residence: monolithic oversized waterfall kitchen island as focal point, honey oak cabinetry, light plaster walls, full-height glass opening into a lush Sri Lankan tropical garden, a single branch in a sculptural ceramic vase, discreet brushed metal tap, limestone floor, warm midday sunlight and long soft shadows. Eye level architectural photography, 35mm lens, clean asymmetrical composition, very wide horizontal 16:9, island in center right. Extremely photorealistic, sophisticated quiet architecture, warm white and pale sand, no people, no text, no logos. This is an illustrative design concept, not a documented real company project.",
+      "path": "public/images/kitchen-concept.webp"
+    },
+    {
+      "key": "bathroom",
+      "prompt": "Use case: photorealistic-natural. Asset type: editorial quartz application image. Input image 1 is the official QJ707N Statuario product reference: preserve the white quartz with medium grey broad diagonal branching veins in a stunning sculptural floating double bathroom vanity with integrated clean basins. Warm cream plaster architectural bathroom, tall arched window overlooking palms, natural oak, brushed bronze faucet, a linen towel and organic ceramic vessel. Elegant luxury resort residence with lush tropical light, warm white tones, photorealistic architecture magazine photography, portrait 4:5 composition, beautiful diagonal morning shadows, vanity stone dominant and clear. No people, no text, no branding. Illustrative interior concept.",
+      "path": "public/images/bathroom-concept.webp"
+    },
+    {
+      "key": "lounge",
+      "prompt": "Use case: photorealistic-natural. Asset type: premium quartz material in living/hospitality interior, landscape architectural photograph. Reference image 1 is official QJ712 Pietra Grey quartz, preserve its mid-dark grey fine grain and very sparse fine pale mineral veins. Create an exquisite sunlit modern villa lounge with a large monolithic charcoal quartz console/bar that dominates the foreground, visible thickness and sharp crafted corners, charcoal quartz wall panel behind, warm cream plaster walls, dark walnut furniture, a tan leather lounge chair, single very large bonsai-like branch in ceramic vessel. Floor-to-ceiling opening to lush garden. Architectural Digest-quality photo, not overly dark, bright white surroundings contrasting dark stone. 35mm camera, exceptionally realistic, horizontal 3:2, warm directional afternoon sunlight, strong geometric composition, stone is the hero. No people, text, logos or signage. This is an illustrative interior concept, not real company project.",
+      "path": "public/images/lounge-concept.webp"
+    },
+    {
+      "key": "dining",
+      "prompt": "Use case: photorealistic-natural. Asset type: premium quartz design interior photograph. Official material reference QJ227 Breeze is a pale warm cream ivory quartz with very subtle pale beige-grey small wisps, no bold marble veins. Generate exquisite quiet architectural dining room with a large rectangular thick monolithic cream quartz dining table in this reference material and curved dark walnut chairs. Warm ivory walls, cream curtains, a sculptural dark ceramic bowl, full height windows framing a tropical garden, polished cream floor. Quartz tabletop dominates foreground, corner and thickness clear. Lifestyle architectural photography horizontal 3:2, real softly directional daylight, refined cream and dark walnut palette, no people, no text. The stone must appear creamy and almost plain, different from cold white veined marble. Illustrative interior concept not a real company project.",
+      "path": "public/images/dining-concept.webp"
+    }
+  ],
+  "note": "Generated product views and interiors are design visualizations. Official original product samples are retained in public/images/references; physical samples are required for color-accurate specification."
+}
