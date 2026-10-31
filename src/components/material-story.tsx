@@ -3,16 +3,10 @@
 import Image from "next/image";
 import { useEffect, useRef } from "react";
 import { getScrollProgress, getStoryFrame } from "@/lib/scroll-story";
-import { Arrow } from "./ui";
+import type { Dictionary } from "@/lib/dictionaries";
+import { Arrow, Lines } from "./ui";
 
-const chapters = [
-  { eyebrow: "01 / THE INSPIRATION", title: "A little closer\nto nature.", body: "Natural character. New possibilities. The beginning of every QJ surface." },
-  { eyebrow: "02 / THE SURFACE", title: "Beauty, in\nevery dimension.", body: "Quartz, carefully composed into a surface made for the way you live." },
-  { eyebrow: "03 / THE DETAIL", title: "Go beyond\nthe surface.", body: "An uninterrupted design. A considered edge. Discover the material from a new angle." },
-  { eyebrow: "04 / THE SPACE", title: "From a surface.\nTo a feeling.", body: "The same fine-veined character, imagined in the heart of a home." },
-];
-
-export default function MaterialStory() {
+export default function MaterialStory({ t }: { t: Dictionary["home"]["story"] }) {
   const section = useRef<HTMLElement>(null);
   const stage = useRef<HTMLDivElement>(null);
   const sculpture = useRef<HTMLDivElement>(null);
@@ -59,19 +53,19 @@ export default function MaterialStory() {
     };
   }, []);
 
-  return <section id="material-story" ref={section} className="material-story" aria-label="From natural inspiration to quartz surface to living space">
+  return <section id="material-story" ref={section} className="material-story" aria-label={t.label}>
     <div ref={stage} className="story-stage">
       <div ref={interior} className="story-interior"><Image src="/images/kitchen-concept.webp" alt="Bianco Calacatta visualized as a waterfall kitchen island in a sunlit tropical home" fill sizes="100vw" /></div>
-      <div className="story-topline"><span>A MATERIAL. A WORLD OF POSSIBILITIES.</span><span>QJ / MATERIAL STUDY</span></div>
+      <div className="story-topline"><span>{t.topLeft}</span><span>{t.topRight}</span></div>
       <div className="story-art">
         <div ref={sculpture} className="story-sculpture"><Image src="/images/story-mineral.webp" alt="Raw milky quartz crystal, the inspiration for an engineered surface" fill sizes="(max-width: 900px) 90vw, 75vw" /></div>
         <div ref={slab} className="story-slab"><Image src="/images/story-surface.webp" alt="QJ711 Bianco Calacatta slab visualization with a visible edge" fill sizes="(max-width: 900px) 90vw, 75vw" /></div>
         <div className="story-dimension"><span>3200 mm</span><span>1600 mm</span></div>
       </div>
-      <div className="story-captions">{chapters.map((chapter, i) => <div key={chapter.eyebrow} ref={node => { captions.current[i] = node; }} className={`story-caption chapter-${i}`} aria-hidden={i !== 0}><span className="eyebrow">{chapter.eyebrow}</span><h2>{chapter.title.split("\n").map((line, j) => <span key={j}>{line}</span>)}</h2><p>{chapter.body}</p></div>)}</div>
-      <div className="story-bottomline"><span>KEEP SCROLLING TO EXPLORE <Arrow /></span><span>DESIGN VISUALIZATION / QJ711</span></div>
+      <div className="story-captions">{t.chapters.map((chapter, i) => <div key={chapter.eyebrow} ref={node => { captions.current[i] = node; }} className={`story-caption chapter-${i}`} aria-hidden={i !== 0}><span className="eyebrow">{chapter.eyebrow}</span><h2>{chapter.title.map((line, j) => <span key={j}>{line}</span>)}</h2><p>{chapter.body}</p></div>)}</div>
+      <div className="story-bottomline"><span>{t.scroll} <Arrow /></span><span>{t.bottomRight}</span></div>
       <div className="story-progress"><span ref={progressBar} /></div>
     </div>
-    <div className="story-static-caption"><span className="eyebrow">FROM SURFACE TO SPACE</span><h2>A material.<br />A world of possibilities.</h2><p>Bianco Calacatta, imagined as the heart of a home.</p></div>
+    <div className="story-static-caption"><span className="eyebrow">{t.staticEyebrow}</span><h2><Lines lines={t.staticTitle} /></h2><p>{t.staticBody}</p></div>
   </section>;
 }

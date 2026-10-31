@@ -1,6 +1,6 @@
 # QJ Quartz Stone
 
-A white editorial homepage built with Next.js 16, React 19 and Tailwind CSS 4.
+Front-end demo of the new QJ website (Project 1 in the proposal), built with Next.js 16, React 19, Tailwind CSS 4 and three.js. There is no backend: content is static, and forms validate and confirm without sending anything.
 
 ## Develop
 
@@ -14,16 +14,31 @@ Run `npm install`, then `npm run dev`. Open http://localhost:3000.
 
 The build uses Webpack and Tailwind's PostCSS integration. Fonts use the system sans-serif stack, so builds do not fetch external fonts.
 
+## What the demo covers
+
+| Proposal feature | Where | Demo behaviour |
+| --- | --- | --- |
+| Searchable collections and filters | `/collections` | All 50 surfaces; filtered views are shareable URLs |
+| Product pages | `/collections/[slug]` | Full slab, close-ups, live room render, specifications, downloads |
+| Favourites, compare, shortlists | `/shortlist`, `/compare` | Saved in the browser; share links carry the list itself |
+| Sample and consultation requests | `/samples`, `/consultation`, `/contact` | Validate, carry the shortlist, show a labelled demo confirmation |
+| Room visualiser | `/visualiser` | Real-time 3D rooms, and an on-device photo tool using four marked corners |
+| Resources by audience | `/resources` | Real PDFs and a texture library, plus QJ's published test data |
+| Care, warranty, FAQ, after-sales | `/support/[topic]` | Published facts, with unapproved wording labelled as draft |
+| Manufacturing and export | `/manufacturing` | QJ's published process, with a distributor form |
+| Language by visitor location | `src/proxy.ts`, `src/dictionaries` | English, Sinhala, Tamil, Traditional Chinese; choice remembered |
+| Blog and completed projects | `/journal`, `/projects` | Filterable; every project is labelled as a sample entry |
+
+Not built, by decision: CMS, inquiries inbox, database, email notifications, AI rendering on uploaded photos, sitemap, analytics and redirects. These follow once the project is commissioned.
+
+Preview a country locally with `/?country=TW` (a remembered language choice takes priority; clear the `qj_lang` cookie to retest).
+
 ## Design and assets
 
-The homepage follows an editorial white/charcoal/clay palette, five real QJ surfaces, and a continuous raw-quartz → slab → interior scroll sequence. Phones and portrait tablets through 900px use a shorter, reversible pinned sequence; short landscape screens place the visual and caption side by side. Reduced-motion layouts provide a static material/interior composition. Main mobile paragraphs are 16px and key controls have at least 44px touch targets. Responsive checks and interaction results are in `docs/mobile-verification.md`.
+The site follows an editorial white/charcoal/clay palette and a continuous raw-quartz → slab → interior scroll sequence on the homepage. Inner pages live in `src/app/site.css` and reuse the same tokens. Phones and portrait tablets through 900px use a shorter, reversible pinned sequence; reduced-motion layouts provide a static composition. Main mobile paragraphs are 16px and key controls have at least 44px touch targets.
 
-Every generated visual has a unique placement. Do not recycle generated images between sections or use slab renders for sample thumbnails. This project rule is recorded in `AGENTS.md`.
+The homepage keeps its generated images, each with one placement (see `AGENTS.md`). Inner pages use no generated images: surfaces are QJ's official swatches with the caption strip cropped off (`public/images/surfaces`, `public/textures`), and photographs come from the archived old site (`public/images/archive`). Product names and codes are exactly as printed on those swatches, including their spellings.
 
-Company content, logo and original swatches are sourced from https://qjquartzstone.com. Products: QJ711 Bianco Calacatta, QJ707N Statuario, QJ712 Pietra Grey, QJ905 Marble Grey, QJ227 Breeze.
+Company content, specifications and test data are from qjquartzstone.com (read from the Wayback Machine, as the live site returned HTTP 500 in October 2026). Colour, pattern and application tags are demo values for QJ to confirm. Translations are machine drafts for QJ to approve. Generated interiors and 3D rooms are illustrative, not installed client projects, and do not replace a physical sample.
 
-Generated assets are stored as optimized WebP files in `public/images`. Original manufacturer swatches are retained in `public/images/references` and displayed in the product-details dialog. Generated interior imagery is illustrative concept work, not a claim of completed QJ projects. The renders do not replace a physical product sample for specification.
-
-Generation prompts and content sources are saved in `docs/image-generation.json` and `docs/unique-asset-prompts.json`. Design and implementation notes are in `docs/homepage-design.md` and `docs/homepage-plan.md`.
-
-Sample requests open an email with the selected product code. Contact actions link to QJ's published phone numbers and email address. No messages are sent automatically.
+After changing the catalogue, regenerate the PDFs and texture library with `node scripts/generate-downloads.mjs`.

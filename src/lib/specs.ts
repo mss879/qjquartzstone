@@ -1,0 +1,36 @@
+// Published on qjquartzstone.com/quartz-stone-specifications. Typos in names and standards are corrected; values are unchanged.
+export const technicalData = [
+  ["Abrasion resistance (weight loss)", "ASTM D 4060", "1064 mg"],
+  ["Izod impact strength", "ASTM D 256 (Method A)", "13.3 J/m"],
+  ["Boiling water resistance", "NEMA LD3 2000 3.5", "No effect"],
+  ["Colorfastness", "ANSI Z124.6.5.1", "Pass"],
+  ["Compression strength (dry)", "ASTM C 170", "209 MPa"],
+  ["Compression strength (wet)", "ASTM C 170", "203 MPa"],
+  ["Density", "KSF 2530", "2.3–2.4 g/cm³"],
+  ["Deflection temperature under load (1.82 MPa)", "ASTM D 648", "243 °C"],
+  ["Flammability: flame spread", "ASTM E 84, NFPA 255", "Class A"],
+  ["Flammability: smoke developed", "ASTM E 84, NFPA 255", "Class A"],
+  ["Flexural modulus", "ASTM D 790", "39.7 GPa"],
+  ["Flexural strength", "ASTM D 790", "42.4 MPa"],
+  ["Freeze and thaw cycling", "ASTM C 1026", "Unaffected"],
+  ["Fungal and bacterial resistance", "ASTM G 21", "No growth"],
+  ["Barcol hardness", "ASTM D 2583", "86"],
+  ["Rockwell hardness (HRM)", "ASTM D 785 (Procedure A)", "115"],
+  ["Point impact", "ANSI Z124.6.4.2.1", "Pass"],
+  ["Static coefficient of friction (dry)", "ASTM C 1028", "0.67"],
+  ["Static coefficient of friction (wet)", "ASTM C 1028", "0.49"],
+  ["Stain resistance", "ANSI Z124.6.5.2", "Pass"],
+  ["Tensile strength", "ASTM D 638", "17.8 MPa"],
+  ["Thermal expansion", "ASTM D 696", "1.52 × 10⁻⁵ in/in/°C"],
+  ["Water absorption (24 hr immersion)", "ASTM D 570", "<0.011%"],
+  ["Wear and cleanability", "ANSI Z124.6.5.3", "Pass"],
+] as const;
+
+export const qualityHighlights = [
+  ["<0.011%", "Water absorption", "ASTM D 570"],
+  ["209 MPa", "Compression strength (dry)", "ASTM C 170"],
+  ["42.4 MPa", "Flexural strength", "ASTM D 790"],
+  ["Class A", "Flame spread", "ASTM E 84"],
+  ["No growth", "Fungal and bacterial resistance", "ASTM G 21"],
+  ["Pass", "Stain resistance", "ANSI Z124.6.5.2"],
+] as const;

@@ -1,0 +1,890 @@
+{
+  "meta": {
+    "title": "QJ Quartz Stone — Natural character. Engineered for living.",
+    "description": "Discover QJ’s quartz surfaces for kitchens, bathrooms and interiors. Explore distinctive finishes, slab designs and material possibilities.",
+    "collections": {
+      "title": "Quartz collections and slabs | QJ Quartz Stone",
+      "description": "Search QJ’s Nature, Premium and Designers quartz collections by colour, pattern, finish, thickness, slab size and application."
+    },
+    "compare": {
+      "title": "Compare quartz surfaces | QJ Quartz Stone",
+      "description": "Compare QJ quartz surfaces side by side."
+    },
+    "shortlist": {
+      "title": "Your shortlist | QJ Quartz Stone",
+      "description": "Save favourite QJ surfaces, name a shortlist and share it by link."
+    },
+    "samples": {
+      "title": "Request a quartz sample | QJ Quartz Stone",
+      "description": "Request physical samples of QJ quartz surfaces for your project."
+    },
+    "consultation": {
+      "title": "Book a showroom or site consultation | QJ Quartz Stone",
+      "description": "Book a showroom visit or site consultation with the QJ team."
+    },
+    "contact": {
+      "title": "Contact QJ and request a quotation | QJ Quartz Stone",
+      "description": "Contact QJ in Sri Lanka and Taiwan, or request a quotation for your project."
+    },
+    "visualiser": {
+      "title": "Room visualiser | QJ Quartz Stone",
+      "description": "Apply QJ quartz surfaces to countertops, floors and walls in preset rooms, or to a photograph of your own space."
+    },
+    "resources": {
+      "title": "Resources for architects, designers and fabricators | QJ Quartz Stone",
+      "description": "Download QJ brochures, technical data, care guidance, installation information and design assets."
+    },
+    "manufacturing": {
+      "title": "Manufacturing and export | QJ Quartz Stone",
+      "description": "How QJ quartz slabs are sourced, produced, polished and inspected, and how to become a QJ distributor."
+    },
+    "journal": {
+      "title": "Journal | QJ Quartz Stone",
+      "description": "Ideas, guidance and news on designing with quartz surfaces."
+    },
+    "projects": {
+      "title": "Completed projects | QJ Quartz Stone",
+      "description": "Explore projects by category, location, application and the QJ designs used."
+    }
+  },
+  "nav": {
+    "collections": "Collections",
+    "visualiser": "Visualiser",
+    "projects": "Projects",
+    "manufacturing": "Manufacturing",
+    "resources": "Resources",
+    "journal": "Journal",
+    "support": "Care & support",
+    "contact": "Let’s talk stone",
+    "contactShort": "Contact",
+    "shortlist": "Shortlist",
+    "openMenu": "Open navigation",
+    "closeMenu": "Close navigation",
+    "language": "Language",
+    "main": "Main navigation",
+    "mobile": "Mobile navigation",
+    "footer": "Footer navigation",
+    "skip": "Skip to content",
+    "home": "QJ Quartz Stone — home"
+  },
+  "footer": {
+    "tagline": [
+      "Natural character.",
+      "Engineered for living."
+    ],
+    "sriLanka": "SRI LANKA",
+    "taiwan": "TAIWAN",
+    "address": [
+      "357, Galle Road",
+      "Mount Lavinia, Sri Lanka"
+    ],
+    "taiwanAddress": [
+      "Queens Ceramic Inc.",
+      "Taiwan"
+    ],
+    "contactTeam": "Contact the team",
+    "explore": "Explore",
+    "support": "Support",
+    "copyright": "© 2026 QJ Quartz Stone.",
+    "credit": "Built and designed by",
+    "top": "BACK TO TOP ↑",
+    "disclaimer": "Stone visualizations & interior concepts",
+    "samples": "Request a sample",
+    "consultation": "Book a consultation",
+    "care": "Care guidance",
+    "warranty": "Warranty",
+    "faq": "FAQ",
+    "afterSales": "After-sales"
+  },
+  "common": {
+    "draft": "Draft for QJ approval",
+    "sample": "Sample entry",
+    "concept": "INTERIOR CONCEPT",
+    "enquire": "Enquire",
+    "viewAll": "View all",
+    "viewSurface": "View surface",
+    "back": "Back",
+    "readMore": "Read more",
+    "remove": "Remove",
+    "clear": "Clear",
+    "all": "All",
+    "slabSize": "Slab size",
+    "thickness": "Thickness",
+    "finish": "Finish",
+    "colour": "Colour",
+    "pattern": "Pattern",
+    "application": "Application",
+    "collection": "Collection",
+    "code": "Code",
+    "tone": "Tone",
+    "material": "Material",
+    "engineeredQuartz": "Engineered quartz",
+    "englishOnly": "This content is currently published in English."
+  },
+  "home": {
+    "kicker": "ENGINEERED BY QJ. INSPIRED BY EARTH.",
+    "route": "SRI LANKA ↗ TAIWAN",
+    "title": [
+      "NATURE.",
+      "REFINED.",
+      "IN QUARTZ."
+    ],
+    "support": [
+      "Exceptional quartz surfaces.",
+      "For spaces that feel like you."
+    ],
+    "cue": [
+      "A NEW PERSPECTIVE",
+      "ON THE EVERYDAY."
+    ],
+    "cueMobile": "Our story",
+    "cta": "Find your surface",
+    "edit": "THE QJ EDIT",
+    "aboutLabel": "The QJ story",
+    "aboutTitle": [
+      "NATURAL CHARACTER.",
+      "EXTRAORDINARY",
+      "POSSIBILITIES."
+    ],
+    "aboutEyebrow": "ARTISTRY MEETS TECHNOLOGY.",
+    "aboutBody": [
+      "Born from a partnership between Queens Ceramic Inc. in Taiwan and Jaysons Holdings (Pvt) Ltd in Sri Lanka, QJ brings material expertise and design ambition together.",
+      "From sourcing quartz to producing, polishing and installing surfaces, we follow the material’s journey. So your vision can take shape."
+    ],
+    "aboutCta": "Get to know QJ",
+    "partnership": "THE QJ PARTNERSHIP",
+    "taiwan": "Taiwan",
+    "sriLanka": "Sri Lanka",
+    "partnershipCaption": "THE COMPANIES BEHIND QJ QUARTZ STONE.",
+    "marquee": [
+      "EARTH TO",
+      "EVERYDAY."
+    ],
+    "story": {
+      "label": "From natural inspiration to quartz surface to living space",
+      "chapters": [
+        {
+          "eyebrow": "01 / THE INSPIRATION",
+          "title": [
+            "A little closer",
+            "to nature."
+          ],
+          "body": "Natural character. New possibilities. The beginning of every QJ surface."
+        },
+        {
+          "eyebrow": "02 / THE SURFACE",
+          "title": [
+            "Beauty, in",
+            "every dimension."
+          ],
+          "body": "Quartz, carefully composed into a surface made for the way you live."
+        },
+        {
+          "eyebrow": "03 / THE DETAIL",
+          "title": [
+            "Go beyond",
+            "the surface."
+          ],
+          "body": "An uninterrupted design. A considered edge. Discover the material from a new angle."
+        },
+        {
+          "eyebrow": "04 / THE SPACE",
+          "title": [
+            "From a surface.",
+            "To a feeling."
+          ],
+          "body": "The same fine-veined character, imagined in the heart of a home."
+        }
+      ],
+      "topLeft": "A MATERIAL. A WORLD OF POSSIBILITIES.",
+      "topRight": "QJ / MATERIAL STUDY",
+      "scroll": "KEEP SCROLLING TO EXPLORE",
+      "bottomRight": "DESIGN VISUALIZATION / QJ711",
+      "staticEyebrow": "FROM SURFACE TO SPACE",
+      "staticTitle": [
+        "A material.",
+        "A world of possibilities."
+      ],
+      "staticBody": "Bianco Calacatta, imagined as the heart of a home."
+    },
+    "collection": {
+      "label": "The collection",
+      "eyebrow": "NATURE’S CHARACTER. YOUR SIGNATURE.",
+      "title": [
+        "A SURFACE",
+        "FOR EVERY STORY."
+      ],
+      "edit": "THE MATERIAL EDIT",
+      "angle": "EXPLORE THE ANGLE",
+      "angleLabel": "Slab viewing angle",
+      "note": "3D MATERIAL VISUALIZATION",
+      "select": "SELECT A SURFACE",
+      "selectItem": "Select",
+      "dimensions": "SLAB DIMENSIONS",
+      "thicknesses": "THICKNESS OPTIONS",
+      "sample": "Enquire about a sample",
+      "details": "View surface details",
+      "tile": "quartz sample tile",
+      "slabAlt": "three-dimensional slab visualization",
+      "footnote": "Visualizations inspired by QJ’s original surfaces. Always confirm colour and pattern with a physical sample.",
+      "range": "Explore the complete QJ range",
+      "dialogEyebrow": "QJ / SURFACE DETAILS",
+      "close": "Close surface details",
+      "officialSwatch": "ORIGINAL QJ MANUFACTURER SWATCH",
+      "standardSlab": "Standard slab",
+      "thicknessOptions": "Thickness options",
+      "dialogNote": "The 3D views are design visualizations. Natural variation, lighting and screen settings affect appearance; request a physical sample before specifying.",
+      "request": "Request this surface",
+      "productPage": "Open the full product page"
+    },
+    "applications": {
+      "label": "Made for living",
+      "title": [
+        "GOOD DESIGN.",
+        "GREAT EVERYDAY."
+      ],
+      "copy": [
+        "A material that finds its place.",
+        "In your space. In your life."
+      ],
+      "cta": "Discuss your space",
+      "bottom": [
+        "One material.",
+        "Countless possibilities."
+      ],
+      "items": [
+        {
+          "title": "Kitchens & countertops",
+          "description": "The heart of a home deserves a surface with character. Explore quartz for countertops, waterfall islands and continuous backsplashes."
+        },
+        {
+          "title": "Bathrooms & vanities",
+          "description": "Make everyday rituals feel considered. QJ surfaces bring a cohesive material language to vanity tops and bathroom interiors."
+        },
+        {
+          "title": "Living & hospitality",
+          "description": "Create a moment of contrast. Pietra Grey brings a grounded material palette to a lounge or hospitality interior. Talk to QJ about the right specification for your space."
+        }
+      ]
+    },
+    "tools": {
+      "label": "Plan your project",
+      "title": [
+        "FROM FIRST IDEA.",
+        "TO FINAL SPECIFICATION."
+      ],
+      "items": [
+        {
+          "title": "Visualise it",
+          "body": "Try any QJ surface on countertops, floors and walls, or on a photograph of your own room.",
+          "cta": "Open the visualiser"
+        },
+        {
+          "title": "Shortlist it",
+          "body": "Save favourites, compare them side by side and share the list with your client or team.",
+          "cta": "See your shortlist"
+        },
+        {
+          "title": "Touch it",
+          "body": "Order physical samples, or book time with us in the showroom or on site.",
+          "cta": "Request a sample"
+        },
+        {
+          "title": "Specify it",
+          "body": "Technical data, care guidance and design assets for architects, designers and fabricators.",
+          "cta": "Browse resources"
+        }
+      ]
+    },
+    "craft": {
+      "label": "Behind the surface",
+      "title": [
+        "FROM EARTH.",
+        "WITH INTENTION."
+      ],
+      "copy": [
+        "Good material is only the beginning.",
+        "What we do with it makes the difference."
+      ],
+      "visualLabel": "THE DETAIL MAKES THE DIFFERENCE.",
+      "visualAlt": "Close-up visualization of the polished edge of Marble Grey quartz",
+      "steps": [
+        {
+          "title": "Carefully sourced.",
+          "body": "Quartz is selected for its quality, whiteness and brightness. QJ’s sourcing expertise follows the material from its origins."
+        },
+        {
+          "title": "Thoughtfully engineered.",
+          "body": "Quartz, resin and pigments are blended, formed, vacuumed and compressed into slabs. The composition brings consistency to the surface."
+        },
+        {
+          "title": "Finished with care.",
+          "body": "Slabs are cured, diamond-polished and inspected before reaching your project. QJ’s process also recycles water used in polishing and cleaning."
+        }
+      ],
+      "cta": "Inside the process",
+      "standard": "STANDARD SLAB",
+      "thickness": "THICKNESS OPTIONS",
+      "specified": "DESIGNED TO BE SPECIFIED.",
+      "specifiedCta": "Explore technical specifications"
+    },
+    "contact": {
+      "label": "Your next chapter",
+      "audience": "FOR HOMEOWNERS, ARCHITECTS & DESIGNERS.",
+      "title": [
+        "LET’S MAKE",
+        "SOMETHING",
+        "EXTRAORDINARY."
+      ],
+      "copy": [
+        "Have a space in mind?",
+        "Let’s find the surface that belongs there."
+      ]
+    }
+  },
+  "catalogue": {
+    "label": "The collection",
+    "title": [
+      "EVERY QJ SURFACE.",
+      "ONE SEARCH."
+    ],
+    "copy": "Search the full range, then narrow it by what your project needs.",
+    "search": "Search by name, code or colour",
+    "filters": "Filters",
+    "showFilters": "Show filters",
+    "hideFilters": "Hide filters",
+    "clearAll": "Clear all",
+    "results": "{count} surfaces",
+    "result": "1 surface",
+    "empty": "No surfaces match those filters.",
+    "emptyCta": "Clear filters",
+    "collections": {
+      "all": "All collections",
+      "nature": "Nature Collection",
+      "premium": "Premium Collection",
+      "designers": "Designers Collection"
+    },
+    "colours": {
+      "white": "White",
+      "cream": "Cream & beige",
+      "grey": "Grey",
+      "black": "Black & charcoal",
+      "brown": "Brown",
+      "blue": "Blue",
+      "green": "Green",
+      "red": "Red & pink",
+      "yellow": "Yellow & gold"
+    },
+    "patterns": {
+      "veined": "Veined",
+      "marbled": "Marbled",
+      "speckled": "Fine grain",
+      "crystal": "Crystal",
+      "solid": "Solid"
+    },
+    "finishes": {
+      "polished": "Polished"
+    },
+    "slabSizes": {
+      "standard": "3200 × 1600 mm",
+      "custom": "Cut to size"
+    },
+    "applications": {
+      "kitchen": "Kitchen countertops",
+      "bathroom": "Bathrooms & vanities",
+      "tables": "Table tops",
+      "floors": "Floors",
+      "walls": "Walls & cladding",
+      "pools": "Pools"
+    },
+    "tagNote": "Colour, pattern and application tags are demo values drawn from each swatch and from QJ’s published applications. QJ to confirm before launch.",
+    "save": "Save to favourites",
+    "saved": "Saved",
+    "compare": "Compare",
+    "comparing": "Comparing"
+  },
+  "product": {
+    "fullSlab": "Full slab",
+    "closeUps": "Close-up textures",
+    "closeUpsCopy": "Drawn from QJ’s original manufacturer swatch.",
+    "closeUp": "Close-up",
+    "installed": "Installed examples",
+    "installedCopy": "Rendered live in the QJ room visualiser with this surface applied. Always confirm with a physical sample.",
+    "kitchen": "Kitchen",
+    "bathroom": "Bathroom",
+    "living": "Living area",
+    "specs": "Specifications",
+    "downloads": "Downloads",
+    "specSheet": "Product specification sheet",
+    "texture": "Surface texture file",
+    "technical": "QJ technical data",
+    "care": "Care guidance",
+    "related": "You may also like",
+    "visualise": "Visualise this surface",
+    "sample": "Request a sample",
+    "consult": "Book a consultation",
+    "quote": "Request a quotation",
+    "hoverZoom": "Move across the slab to inspect it",
+    "sizes": "Sizes",
+    "customSize": "Cut to designated size in 20 and 30 mm",
+    "note": "Natural variation, lighting and screen settings affect appearance; request a physical sample before specifying.",
+    "keyData": "Key technical data",
+    "waterAbsorption": "Water absorption",
+    "compression": "Compression strength (dry)",
+    "flexural": "Flexural strength",
+    "density": "Density",
+    "guarantee": "Manufacturer’s guarantee",
+    "guaranteeValue": "10 years"
+  },
+  "compare": {
+    "label": "Side by side",
+    "title": [
+      "COMPARE",
+      "YOUR SURFACES."
+    ],
+    "copy": "Compare up to four surfaces. Everything here can be shared, saved or sent with an enquiry.",
+    "empty": "Nothing to compare yet.",
+    "emptyCopy": "Add surfaces from the collection using the compare control.",
+    "browse": "Browse the collection",
+    "tray": "Compare surfaces",
+    "open": "Compare now",
+    "limit": "You can compare up to four surfaces.",
+    "addMore": "Add another surface",
+    "share": "Copy comparison link",
+    "copied": "Link copied"
+  },
+  "shortlist": {
+    "label": "Your favourites",
+    "title": [
+      "YOUR SHORTLIST.",
+      "READY TO SHARE."
+    ],
+    "copy": "Name the project, add a note to each surface, then share the link or send it with your enquiry.",
+    "name": "Project name",
+    "namePlaceholder": "e.g. Galle Road kitchen",
+    "note": "Note",
+    "notePlaceholder": "e.g. Island top",
+    "empty": "No favourites saved yet.",
+    "emptyCopy": "Tap the heart on any surface to save it here.",
+    "share": "Copy share link",
+    "copied": "Link copied",
+    "enquire": "Send with an enquiry",
+    "sample": "Request samples",
+    "compare": "Compare these",
+    "sharedLabel": "A shared shortlist",
+    "sharedCopy": "Someone has shared these QJ surfaces with you.",
+    "saveAll": "Save all to my favourites",
+    "savedAll": "Saved to your favourites",
+    "count": "{count} saved"
+  },
+  "forms": {
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "company": "Company",
+    "country": "Country",
+    "city": "City",
+    "message": "Message",
+    "products": "Surfaces",
+    "addProduct": "Add a surface",
+    "noProducts": "No surfaces added yet.",
+    "submit": "Send request",
+    "required": "This field is required.",
+    "invalidEmail": "Enter a valid email address.",
+    "pickProduct": "Add at least one surface.",
+    "privacy": "QJ uses these details only to respond to your request.",
+    "shortlistIncluded": "Your shortlist travels with this request",
+    "thanksTitle": "Thank you.",
+    "thanks": "Your request has reached the QJ team. Your reference is {reference}.",
+    "another": "Send another request",
+    "preferredDate": "Preferred date",
+    "preferredTime": "Preferred time",
+    "morning": "Morning",
+    "afternoon": "Afternoon",
+    "evening": "Evening",
+    "consultationType": "Consultation type",
+    "showroom": "Showroom visit",
+    "site": "Site consultation",
+    "siteAddress": "Site address",
+    "projectType": "Project type",
+    "residential": "Residential",
+    "commercial": "Commercial",
+    "hospitality": "Hospitality",
+    "areaSize": "Approximate area (m²)",
+    "deliveryAddress": "Delivery address",
+    "enquiryType": "How can we help?",
+    "general": "General enquiry",
+    "quotation": "Quotation request",
+    "website": "Website",
+    "market": "Market or region",
+    "experience": "Tell us about your business",
+    "volume": "Expected annual volume (m²)",
+    "warehouse": "Warehouse or showroom available",
+    "yes": "Yes",
+    "no": "No",
+    "orderReference": "Order or project reference",
+    "issue": "What do you need help with?",
+    "installedDate": "Installation date",
+    "demoNote": "This is a demo, so your request was not sent."
+  },
+  "requests": {
+    "samplesLabel": "Samples",
+    "samplesTitle": [
+      "FEEL THE SURFACE",
+      "BEFORE YOU CHOOSE."
+    ],
+    "samplesCopy": "A screen can only show so much. Choose the surfaces you would like to see in person.",
+    "consultationLabel": "Consultation",
+    "consultationTitle": [
+      "LET’S TALK",
+      "ABOUT YOUR SPACE."
+    ],
+    "consultationCopy": "Visit the showroom or invite us on site. Tell us which surfaces you have in mind and when suits you.",
+    "contactLabel": "Contact",
+    "contactTitle": [
+      "LET’S TALK",
+      "STONE."
+    ],
+    "contactCopy": "For quotations, project questions and everything in between.",
+    "offices": "Our offices",
+    "office": "Office",
+    "mobile": "Mobile",
+    "email": "Email"
+  },
+  "visualiser": {
+    "label": "Room visualiser",
+    "title": [
+      "SEE IT IN THE ROOM.",
+      "BEFORE IT’S THERE."
+    ],
+    "copy": "Apply any QJ surface to countertops, floors and walls, or try one on a photograph of your own space.",
+    "presets": "Preset rooms",
+    "yourPhoto": "Your photo",
+    "rooms": {
+      "kitchen": "Kitchen",
+      "bathroom": "Bathroom",
+      "living": "Living area"
+    },
+    "zones": {
+      "counter": "Countertops",
+      "floor": "Floors",
+      "wall": "Walls"
+    },
+    "original": "Original finish",
+    "surfaces": "Choose a surface",
+    "search": "Search surfaces",
+    "drag": "Drag to look around",
+    "loading": "Preparing the room",
+    "noWebgl": "This device cannot display the 3D room. Try the photo tool instead.",
+    "applied": "Applied to this room",
+    "saveShortlist": "Save to favourites",
+    "saveAll": "Save these surfaces",
+    "savedAll": "Saved to favourites",
+    "shareLink": "Copy link to this room",
+    "copied": "Link copied",
+    "request": "Request samples of these",
+    "disclaimer": "Visualisations are illustrative. Natural variation, lighting and screen settings affect appearance; request a physical sample before specifying.",
+    "uploadTitle": "Start with a photograph",
+    "upload": "Upload a photo",
+    "uploadHint": "JPG or PNG. A straight-on photo in daylight works best. Your photo stays on this device.",
+    "steps": [
+      "Upload a photo of your room.",
+      "Click the four corners of the surface, in order.",
+      "Choose a QJ surface to apply."
+    ],
+    "corners": "Corner {count} of 4",
+    "reset": "Start again",
+    "another": "Mark another surface",
+    "changePhoto": "Change photo",
+    "download": "Download image",
+    "photoAlt": "Your room with a QJ surface applied"
+  },
+  "resources": {
+    "label": "Resources",
+    "title": [
+      "EVERYTHING YOU NEED",
+      "TO SPECIFY QJ."
+    ],
+    "copy": "Brochures, technical data, care guidance, installation information and design assets, organised by who you are.",
+    "audience": "I am",
+    "type": "Type",
+    "download": "Download",
+    "audiences": {
+      "all": "Everyone",
+      "architects": "Architects",
+      "designers": "Designers",
+      "fabricators": "Fabricators",
+      "homeowners": "Homeowners"
+    },
+    "types": {
+      "brochure": "Brochures",
+      "technical": "Technical data",
+      "care": "Care guidance",
+      "installation": "Installation",
+      "assets": "Design assets"
+    },
+    "empty": "No documents match that selection.",
+    "dataTitle": "Technical data",
+    "dataCopy": "Figures as published by QJ, with the test standard for each property.",
+    "property": "Property",
+    "standard": "Standard",
+    "result": "Result"
+  },
+  "support": {
+    "label": "Care & support",
+    "nav": {
+      "care": "Care guidance",
+      "warranty": "Warranty",
+      "faq": "FAQ",
+      "after-sales": "After-sales"
+    },
+    "care": {
+      "metaTitle": "Quartz care guidance | QJ Quartz Stone",
+      "metaDescription": "How to clean and care for your QJ quartz surface.",
+      "title": [
+        "EASY TO LIVE WITH.",
+        "EASY TO LOOK AFTER."
+      ],
+      "copy": "QJ quartz is made for everyday life, and caring for it is simple.",
+      "published": "From QJ",
+      "items": [
+        {
+          "title": "Everyday cleaning",
+          "body": "Wipe with mild soap and warm water. That is all a QJ surface needs from day to day."
+        },
+        {
+          "title": "No sealing",
+          "body": "QJ quartz requires no sealing when cut, and no conditioning or polishing."
+        },
+        {
+          "title": "Heat and stains",
+          "body": "QJ surfaces are heat and stain resistant. They pass the ANSI Z124.6.5.2 stain test and boiling water has no effect under NEMA LD3 2000 3.5."
+        },
+        {
+          "title": "Hygiene",
+          "body": "QJ stones contain anti-bacterial enhancements, and showed no fungal or bacterial growth under ASTM G 21."
+        }
+      ],
+      "draftTitle": "Good habits",
+      "draftItems": [
+        "Wipe up spills promptly rather than letting them dry.",
+        "Use trivets and hot pads under pans straight from the stove or oven.",
+        "Use a chopping board rather than cutting directly on the surface.",
+        "Avoid harsh chemicals such as paint removers, oven cleaners and bleach."
+      ]
+    },
+    "warranty": {
+      "metaTitle": "Quartz warranty | QJ Quartz Stone",
+      "metaDescription": "QJ quartz comes with a 10 year manufacturer’s guarantee.",
+      "title": [
+        "TEN YEARS.",
+        "ONE GUARANTEE."
+      ],
+      "copy": "Every QJ Quartz Stone product comes with a 10 year manufacturer’s guarantee.",
+      "pendingTitle": "Warranty terms",
+      "pendingCopy": "This page will carry QJ’s approved warranty wording. The structure is ready for it:",
+      "sections": [
+        "What the guarantee covers",
+        "What is not covered",
+        "How to register an installation",
+        "How to make a claim"
+      ],
+      "pendingBadge": "Wording to be supplied by QJ",
+      "cta": "Contact after-sales"
+    },
+    "faq": {
+      "metaTitle": "Quartz FAQ | QJ Quartz Stone",
+      "metaDescription": "Answers to common questions about QJ quartz surfaces, sizes, care and samples.",
+      "title": [
+        "GOOD QUESTIONS.",
+        "CLEAR ANSWERS."
+      ],
+      "copy": "The questions we hear most often.",
+      "items": [
+        {
+          "q": "What is QJ quartz made of?",
+          "a": "Quartz in an array of mesh sizes, along with recycled material, is combined with resin and high density pigments, then vacuumed, vibrated and compressed into a slab."
+        },
+        {
+          "q": "What sizes are available?",
+          "a": "Standard slabs are 3200 × 1600 mm in 12, 20 and 30 mm thicknesses. 20 and 30 mm can also be cut to a designated size."
+        },
+        {
+          "q": "Does quartz need sealing?",
+          "a": "No. QJ quartz requires no sealing when cut, and no conditioning or polishing."
+        },
+        {
+          "q": "How do I clean it?",
+          "a": "Just wipe with mild soap and warm water."
+        },
+        {
+          "q": "How water resistant is it?",
+          "a": "QJ quartz has a published water absorption of less than 0.011% under ASTM D 570."
+        },
+        {
+          "q": "Is there a guarantee?",
+          "a": "Yes. QJ products come with a 10 year manufacturer’s guarantee."
+        },
+        {
+          "q": "Where is QJ quartz made?",
+          "a": "QJ quartz surfaces are produced in Sri Lanka and Taiwan."
+        },
+        {
+          "q": "Where can I use it?",
+          "a": "QJ quartz is used for kitchen tops, table tops, floors, bathrooms, pools and living rooms."
+        },
+        {
+          "q": "Can I see a sample first?",
+          "a": "Yes, and we recommend it. Request a sample online or book a consultation."
+        },
+        {
+          "q": "Do you work with distributors?",
+          "a": "Yes. Regional distributors assist customers in their markets, and new enquiries are welcome through our Manufacturing & Export page."
+        }
+      ]
+    },
+    "after-sales": {
+      "metaTitle": "After-sales support | QJ Quartz Stone",
+      "metaDescription": "Get help with an installed QJ surface.",
+      "title": [
+        "WE’RE STILL HERE.",
+        "AFTER THE INSTALL."
+      ],
+      "copy": "Tell us what you need and the right person at QJ will follow up.",
+      "steps": [
+        {
+          "title": "Tell us about it",
+          "body": "Share your order or project reference and what you have noticed."
+        },
+        {
+          "title": "We review it",
+          "body": "Your request goes straight to the QJ team."
+        },
+        {
+          "title": "We follow up",
+          "body": "We contact you with the next steps."
+        }
+      ]
+    }
+  },
+  "manufacturing": {
+    "label": "Manufacturing & export",
+    "title": [
+      "ARTISTRY",
+      "MEETS TECHNOLOGY."
+    ],
+    "copy": "From raw quartz to finished surface, QJ follows the whole supply chain through a fully vertically integrated business model.",
+    "partners": "Queens Ceramic Inc. has been a pioneering force in building materials for decades. Jaysons Holdings (Pvt) Ltd is a market leader in luxury housing and interiors, property development, hospitality and mineral trading. Together they are QJ Quartz Stone.",
+    "processLabel": "The process",
+    "processTitle": [
+      "FROM QUARTZ",
+      "TO SURFACE."
+    ],
+    "steps": [
+      {
+        "title": "Sourcing the quartz",
+        "body": "Quartz is the most important factor in a quartz surface. QJ sources it from around the world, inspects mining sites itself, and has its own mine and technology to control particle size, whiteness and brightness."
+      },
+      {
+        "title": "Forming the slab",
+        "body": "Quartz in an array of mesh sizes, along with recycled material, is combined with resin and high density pigments. The compound is spread into a customised cast iron mould, then vacuumed, vibrated and compressed."
+      },
+      {
+        "title": "Polishing and quality control",
+        "body": "The compressed slab is baked at 80–100 °C, then sent through a diamond-edged polisher. Polished slabs are inspected inch by inch for defects before they are passed for the market."
+      },
+      {
+        "title": "Water recycling",
+        "body": "QJ strives to preserve and protect the environment, with a state of the art water recycling plant that purifies the water used for polishing and cleaning."
+      }
+    ],
+    "qualityLabel": "Quality controls",
+    "qualityTitle": [
+      "TESTED.",
+      "AND PUBLISHED."
+    ],
+    "qualityCopy": "Every figure below is taken from QJ’s published specification.",
+    "fullData": "See all 20 test results",
+    "capabilitiesLabel": "Capabilities",
+    "capabilitiesTitle": [
+      "WHAT WE",
+      "MAKE."
+    ],
+    "capabilities": [
+      {
+        "value": "3200 × 1600",
+        "unit": "mm",
+        "label": "Standard slab"
+      },
+      {
+        "value": "12 / 20 / 30",
+        "unit": "mm",
+        "label": "Standard thickness"
+      },
+      {
+        "value": "75+",
+        "unit": "",
+        "label": "Patterns and colours"
+      },
+      {
+        "value": "10",
+        "unit": "years",
+        "label": "Manufacturer’s guarantee"
+      }
+    ],
+    "customCut": "20 and 30 mm material can also be cut to a designated size.",
+    "exportLabel": "Export & distribution",
+    "exportTitle": [
+      "TAKE QJ",
+      "TO YOUR MARKET."
+    ],
+    "exportCopy": "QJ’s regional distributors help customers around the world. If you would like to represent QJ in your market, tell us about your business.",
+    "community": "Every purchase of QJ Quartz Stone contributes towards the education of children in rural areas of Sri Lanka."
+  },
+  "journal": {
+    "label": "Journal",
+    "title": [
+      "NOTES ON",
+      "STONE."
+    ],
+    "copy": "Ideas and guidance for designing with quartz.",
+    "all": "All stories",
+    "categories": {
+      "Inside QJ": "Inside QJ",
+      "Guides": "Guides",
+      "Design": "Design"
+    },
+    "minutes": "{count} min read",
+    "back": "All stories",
+    "empty": "No stories in this category yet."
+  },
+  "projects": {
+    "label": "Completed projects",
+    "title": [
+      "SURFACES",
+      "AT WORK."
+    ],
+    "copy": "Browse by category to see where QJ surfaces can go, and which designs were used.",
+    "all": "All projects",
+    "categories": {
+      "Kitchens": "Kitchens",
+      "Bathrooms": "Bathrooms",
+      "Living": "Living",
+      "Hospitality": "Hospitality"
+    },
+    "location": "Location",
+    "application": "Application",
+    "designs": "Designs used",
+    "back": "All projects",
+    "similar": "Start a similar project",
+    "sampleNote": "Sample entry. It shows how a completed project will appear; QJ’s own project photographs and details replace it before launch."
+  },
+  "notFound": {
+    "title": [
+      "THIS PAGE",
+      "ISN’T HERE."
+    ],
+    "copy": "The page may have moved. The stone is still where you left it.",
+    "cta": "Back to the homepage"
+  }
+}

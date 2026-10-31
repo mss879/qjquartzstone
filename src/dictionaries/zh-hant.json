@@ -1,0 +1,890 @@
+{
+  "meta": {
+    "title": "QJ Quartz Stone 石英石 — 自然本色。為生活精工打造。",
+    "description": "探索 QJ 適用於廚房、衛浴與室內空間的石英石面材，發掘獨特的表面質感、大板設計與材質可能。",
+    "collections": {
+      "title": "石英石系列與大板 | QJ Quartz Stone",
+      "description": "依顏色、紋理、表面處理、厚度、大板尺寸與應用空間，搜尋 QJ 自然、精品與設計師系列石英石。"
+    },
+    "compare": {
+      "title": "比較石英石 | QJ Quartz Stone",
+      "description": "並排比較 QJ 石英石面材。"
+    },
+    "shortlist": {
+      "title": "您的收藏清單 | QJ Quartz Stone",
+      "description": "收藏喜愛的 QJ 石材、為清單命名，並透過連結分享。"
+    },
+    "samples": {
+      "title": "索取石英石樣品 | QJ Quartz Stone",
+      "description": "為您的專案索取 QJ 石英石實體樣品。"
+    },
+    "consultation": {
+      "title": "預約展示間或現場諮詢 | QJ Quartz Stone",
+      "description": "預約參觀展示間，或與 QJ 團隊進行現場諮詢。"
+    },
+    "contact": {
+      "title": "聯絡 QJ 與索取報價 | QJ Quartz Stone",
+      "description": "聯絡 QJ 斯里蘭卡與台灣團隊，或為您的專案索取報價。"
+    },
+    "visualiser": {
+      "title": "石英石空間模擬器 | QJ Quartz Stone",
+      "description": "將 QJ 石英石面材套用至預設空間的檯面、地板與牆面，或套用至您自家空間的照片。"
+    },
+    "resources": {
+      "title": "建築師、設計師與石材加工業者資源 | QJ Quartz Stone",
+      "description": "下載 QJ 型錄、技術資料、保養指南、安裝資訊與設計素材。"
+    },
+    "manufacturing": {
+      "title": "製造與出口 | QJ Quartz Stone",
+      "description": "了解 QJ 石英石大板如何選料、生產、拋光與檢驗，以及如何成為 QJ 經銷商。"
+    },
+    "journal": {
+      "title": "專欄 | QJ Quartz Stone",
+      "description": "石英石面材的設計靈感、指南與最新消息。"
+    },
+    "projects": {
+      "title": "完工案例 | QJ Quartz Stone",
+      "description": "依類別、地點、應用空間與使用的 QJ 款式探索案例。"
+    }
+  },
+  "nav": {
+    "collections": "產品系列",
+    "visualiser": "空間模擬",
+    "projects": "案例",
+    "manufacturing": "製造",
+    "resources": "資源",
+    "journal": "專欄",
+    "support": "保養與服務",
+    "contact": "聊聊石材",
+    "contactShort": "聯絡我們",
+    "shortlist": "收藏清單",
+    "openMenu": "開啟選單",
+    "closeMenu": "關閉選單",
+    "language": "語言",
+    "main": "主選單",
+    "mobile": "行動版選單",
+    "footer": "頁尾選單",
+    "skip": "跳至主要內容",
+    "home": "QJ Quartz Stone — 首頁"
+  },
+  "footer": {
+    "tagline": [
+      "自然本色。",
+      "為生活精工打造。"
+    ],
+    "sriLanka": "斯里蘭卡",
+    "taiwan": "台灣",
+    "address": [
+      "357, Galle Road",
+      "Mount Lavinia, 斯里蘭卡"
+    ],
+    "taiwanAddress": [
+      "Queens Ceramic Inc.",
+      "台灣"
+    ],
+    "contactTeam": "聯絡團隊",
+    "explore": "探索",
+    "support": "服務支援",
+    "copyright": "© 2026 QJ Quartz Stone.",
+    "credit": "網站設計與建置",
+    "top": "回到頂端 ↑",
+    "disclaimer": "石材視覺模擬與室內概念圖",
+    "samples": "索取樣品",
+    "consultation": "預約諮詢",
+    "care": "保養指南",
+    "warranty": "保固",
+    "faq": "常見問題",
+    "afterSales": "售後服務"
+  },
+  "common": {
+    "draft": "草稿，待 QJ 核可",
+    "sample": "範例內容",
+    "concept": "室內概念圖",
+    "enquire": "洽詢",
+    "viewAll": "查看全部",
+    "viewSurface": "查看石材",
+    "back": "返回",
+    "readMore": "閱讀更多",
+    "remove": "移除",
+    "clear": "清除",
+    "all": "全部",
+    "slabSize": "大板尺寸",
+    "thickness": "厚度",
+    "finish": "表面處理",
+    "colour": "顏色",
+    "pattern": "紋理",
+    "application": "應用空間",
+    "collection": "系列",
+    "code": "型號",
+    "tone": "色調",
+    "material": "材質",
+    "engineeredQuartz": "工程石英石",
+    "englishOnly": "本內容目前僅提供英文版本。"
+  },
+  "home": {
+    "kicker": "QJ 精工打造。靈感源於大地。",
+    "route": "斯里蘭卡 ↗ 台灣",
+    "title": [
+      "自然。",
+      "精煉。",
+      "凝於石英。"
+    ],
+    "support": [
+      "非凡的石英石面材，",
+      "成就屬於您的空間。"
+    ],
+    "cue": [
+      "換個視角，",
+      "重新看見日常。"
+    ],
+    "cueMobile": "品牌故事",
+    "cta": "尋找您的石材",
+    "edit": "QJ 精選",
+    "aboutLabel": "QJ 的故事",
+    "aboutTitle": [
+      "自然本色。",
+      "成就非凡",
+      "可能。"
+    ],
+    "aboutEyebrow": "當工藝遇上科技。",
+    "aboutBody": [
+      "QJ 誕生於台灣 Queens Ceramic Inc. 與斯里蘭卡 Jaysons Holdings (Pvt) Ltd 的合作，匯聚材料專業與設計抱負。",
+      "從石英選料到生產、拋光與安裝，我們全程跟隨材料的旅程，讓您的構想得以成形。"
+    ],
+    "aboutCta": "認識 QJ",
+    "partnership": "QJ 的合作關係",
+    "taiwan": "台灣",
+    "sriLanka": "斯里蘭卡",
+    "partnershipCaption": "QJ Quartz Stone 背後的企業。",
+    "marquee": [
+      "從大地",
+      "到日常。"
+    ],
+    "story": {
+      "label": "從自然靈感，到石英石面材，再到生活空間",
+      "chapters": [
+        {
+          "eyebrow": "01 / 靈感",
+          "title": [
+            "再靠近",
+            "自然一點。"
+          ],
+          "body": "自然本色，全新可能。每一款 QJ 石材，都從這裡開始。"
+        },
+        {
+          "eyebrow": "02 / 石材",
+          "title": [
+            "美，",
+            "在每個面向。"
+          ],
+          "body": "石英經細心調配，成為貼合您生活方式的石材。"
+        },
+        {
+          "eyebrow": "03 / 細節",
+          "title": [
+            "不止於",
+            "表面。"
+          ],
+          "body": "一氣呵成的設計，講究的收邊。從全新角度認識這款材質。"
+        },
+        {
+          "eyebrow": "04 / 空間",
+          "title": [
+            "從一片石材。",
+            "到一種感受。"
+          ],
+          "body": "同樣細膩的脈紋，想像它成為家的核心。"
+        }
+      ],
+      "topLeft": "一種材質。萬千可能。",
+      "topRight": "QJ / 材質研究",
+      "scroll": "向下捲動，繼續探索",
+      "bottomRight": "設計視覺模擬 / QJ711",
+      "staticEyebrow": "從石材到空間",
+      "staticTitle": [
+        "一種材質。",
+        "萬千可能。"
+      ],
+      "staticBody": "想像 Bianco Calacatta 成為家的核心。"
+    },
+    "collection": {
+      "label": "產品系列",
+      "eyebrow": "自然的本色。您的印記。",
+      "title": [
+        "每段故事，",
+        "都有相襯的石材。"
+      ],
+      "edit": "材質精選",
+      "angle": "探索不同角度",
+      "angleLabel": "大板檢視角度",
+      "note": "3D 材質模擬圖",
+      "select": "選擇石材",
+      "selectItem": "選擇",
+      "dimensions": "大板尺寸",
+      "thicknesses": "厚度選項",
+      "sample": "洽詢樣品",
+      "details": "查看石材詳情",
+      "tile": "石英石樣品片",
+      "slabAlt": "立體大板模擬圖",
+      "footnote": "模擬圖以 QJ 原創石材為靈感繪製。顏色與紋理請務必以實體樣品為準。",
+      "range": "探索 QJ 完整產品系列",
+      "dialogEyebrow": "QJ / 石材詳情",
+      "close": "關閉石材詳情",
+      "officialSwatch": "QJ 原廠色樣",
+      "standardSlab": "標準大板",
+      "thicknessOptions": "厚度選項",
+      "dialogNote": "3D 畫面為設計模擬圖。自然差異、光線與螢幕設定都會影響呈現效果；指定選用前，請先索取實體樣品。",
+      "request": "洽詢此款石材",
+      "productPage": "開啟完整產品頁面"
+    },
+    "applications": {
+      "label": "為生活而生",
+      "title": [
+        "好設計。",
+        "好日常。"
+      ],
+      "copy": [
+        "一種材質，自有歸處。",
+        "在您的空間，在您的生活。"
+      ],
+      "cta": "談談您的空間",
+      "bottom": [
+        "一種材質。",
+        "萬千可能。"
+      ],
+      "items": [
+        {
+          "title": "廚房與檯面",
+          "description": "家的核心，值得一片有個性的石材。探索石英石於檯面、瀑布式中島與連續式防濺背牆的應用。"
+        },
+        {
+          "title": "衛浴與浴櫃",
+          "description": "讓日常儀式多一分講究。QJ 石材為浴櫃檯面與衛浴空間，帶來一致的材質語彙。"
+        },
+        {
+          "title": "起居與餐旅空間",
+          "description": "創造對比的一刻。Pietra Grey 為交誼廳或餐旅空間，帶來沉穩的材質調性。歡迎與 QJ 討論適合您空間的規格。"
+        }
+      ]
+    },
+    "tools": {
+      "label": "規劃您的專案",
+      "title": [
+        "從最初的想法。",
+        "到最終的規格。"
+      ],
+      "items": [
+        {
+          "title": "模擬看看",
+          "body": "將任一款 QJ 石材套用到檯面、地板與牆面，或套用到您自家空間的照片上。",
+          "cta": "開啟空間模擬器"
+        },
+        {
+          "title": "加入收藏",
+          "body": "收藏喜愛的款式、並排比較，再將清單分享給客戶或團隊。",
+          "cta": "查看收藏清單"
+        },
+        {
+          "title": "親手感受",
+          "body": "索取實體樣品，或預約在展示間或現場與我們會面。",
+          "cta": "索取樣品"
+        },
+        {
+          "title": "指定選用",
+          "body": "為建築師、設計師與石材加工業者準備的技術資料、保養指南與設計素材。",
+          "cta": "瀏覽資源"
+        }
+      ]
+    },
+    "craft": {
+      "label": "石材背後",
+      "title": [
+        "源於大地。",
+        "用心而成。"
+      ],
+      "copy": [
+        "好材料只是開始。",
+        "如何運用，才是關鍵。"
+      ],
+      "visualLabel": "細節，成就差異。",
+      "visualAlt": "Marble Grey 石英石拋光邊緣的特寫模擬圖",
+      "steps": [
+        {
+          "title": "嚴謹選料。",
+          "body": "石英依品質、白度與亮度精選。QJ 的選料專業，從材料的源頭開始。"
+        },
+        {
+          "title": "用心製造。",
+          "body": "石英、樹脂與顏料經混合、成型、真空與壓製，製成大板。這樣的組成，讓板面更加一致。"
+        },
+        {
+          "title": "細心完工。",
+          "body": "大板經固化、鑽石拋光與檢驗後，才送達您的專案。QJ 的製程也會回收拋光與清潔用水。"
+        }
+      ],
+      "cta": "走進製程",
+      "standard": "標準大板",
+      "thickness": "厚度選項",
+      "specified": "為指定選用而設計。",
+      "specifiedCta": "查看技術規格"
+    },
+    "contact": {
+      "label": "您的下一章",
+      "audience": "獻給屋主、建築師與設計師。",
+      "title": [
+        "讓我們",
+        "一起成就",
+        "非凡。"
+      ],
+      "copy": [
+        "心中已有理想空間？",
+        "讓我們找到屬於它的石材。"
+      ]
+    }
+  },
+  "catalogue": {
+    "label": "產品系列",
+    "title": [
+      "所有 QJ 石材，",
+      "一次搜尋。"
+    ],
+    "copy": "搜尋全系列產品，再依專案需求逐步篩選。",
+    "search": "依名稱、型號或顏色搜尋",
+    "filters": "篩選",
+    "showFilters": "顯示篩選條件",
+    "hideFilters": "隱藏篩選條件",
+    "clearAll": "全部清除",
+    "results": "{count} 款石材",
+    "result": "1 款石材",
+    "empty": "沒有符合篩選條件的石材。",
+    "emptyCta": "清除篩選條件",
+    "collections": {
+      "all": "所有系列",
+      "nature": "自然系列",
+      "premium": "精品系列",
+      "designers": "設計師系列"
+    },
+    "colours": {
+      "white": "白色",
+      "cream": "奶油色與米色",
+      "grey": "灰色",
+      "black": "黑色與炭灰色",
+      "brown": "棕色",
+      "blue": "藍色",
+      "green": "綠色",
+      "red": "紅色與粉色",
+      "yellow": "黃色與金色"
+    },
+    "patterns": {
+      "veined": "脈紋",
+      "marbled": "大理石紋",
+      "speckled": "細顆粒",
+      "crystal": "晶石",
+      "solid": "素色"
+    },
+    "finishes": {
+      "polished": "拋光面"
+    },
+    "slabSizes": {
+      "standard": "3200 × 1600 mm",
+      "custom": "依尺寸裁切"
+    },
+    "applications": {
+      "kitchen": "廚房檯面",
+      "bathroom": "衛浴與浴櫃",
+      "tables": "桌面",
+      "floors": "地板",
+      "walls": "牆面與貼面",
+      "pools": "泳池"
+    },
+    "tagNote": "顏色、紋理與應用標籤為示範值，依各色樣及 QJ 已公布的應用範圍整理而成，上線前須由 QJ 確認。",
+    "save": "加入收藏",
+    "saved": "已收藏",
+    "compare": "比較",
+    "comparing": "比較中"
+  },
+  "product": {
+    "fullSlab": "整片大板",
+    "closeUps": "紋理特寫",
+    "closeUpsCopy": "取自 QJ 原廠色樣。",
+    "closeUp": "特寫",
+    "installed": "安裝示意",
+    "installedCopy": "於 QJ 空間模擬器中即時套用此款石材所呈現。請務必以實體樣品為準。",
+    "kitchen": "廚房",
+    "bathroom": "衛浴",
+    "living": "起居空間",
+    "specs": "產品規格",
+    "downloads": "檔案下載",
+    "specSheet": "產品規格表",
+    "texture": "表面材質檔案",
+    "technical": "QJ 技術資料",
+    "care": "保養指南",
+    "related": "您可能也喜歡",
+    "visualise": "模擬此款石材",
+    "sample": "索取樣品",
+    "consult": "預約諮詢",
+    "quote": "索取報價",
+    "hoverZoom": "在大板上移動以細看",
+    "sizes": "尺寸",
+    "customSize": "20 與 30 mm 可依指定尺寸裁切",
+    "note": "自然差異、光線與螢幕設定都會影響呈現效果；指定選用前，請先索取實體樣品。",
+    "keyData": "關鍵技術數據",
+    "waterAbsorption": "吸水率",
+    "compression": "抗壓強度（乾燥狀態）",
+    "flexural": "抗彎強度",
+    "density": "密度",
+    "guarantee": "原廠保固",
+    "guaranteeValue": "10 年"
+  },
+  "compare": {
+    "label": "並排比較",
+    "title": [
+      "比較",
+      "您的石材。"
+    ],
+    "copy": "最多可比較四款石材。此處所有內容皆可分享、儲存，或隨洽詢一併送出。",
+    "empty": "尚無比較項目。",
+    "emptyCopy": "請在產品系列中使用比較功能加入石材。",
+    "browse": "瀏覽產品系列",
+    "tray": "比較石材",
+    "open": "立即比較",
+    "limit": "最多可比較四款石材。",
+    "addMore": "新增其他石材",
+    "share": "複製比較連結",
+    "copied": "已複製連結"
+  },
+  "shortlist": {
+    "label": "您的收藏",
+    "title": [
+      "您的收藏清單。",
+      "隨時可分享。"
+    ],
+    "copy": "為專案命名、為每款石材加上備註，再分享連結或隨洽詢一併送出。",
+    "name": "專案名稱",
+    "namePlaceholder": "例如：Galle Road 廚房",
+    "note": "備註",
+    "notePlaceholder": "例如：中島檯面",
+    "empty": "尚未收藏任何石材。",
+    "emptyCopy": "點選任一款石材上的愛心，即可收藏於此。",
+    "share": "複製分享連結",
+    "copied": "已複製連結",
+    "enquire": "隨洽詢一併送出",
+    "sample": "索取樣品",
+    "compare": "比較這些石材",
+    "sharedLabel": "他人分享的收藏清單",
+    "sharedCopy": "有人與您分享了這些 QJ 石材。",
+    "saveAll": "全部加入我的收藏",
+    "savedAll": "已加入您的收藏",
+    "count": "已收藏 {count} 款"
+  },
+  "forms": {
+    "name": "姓名",
+    "email": "電子郵件",
+    "phone": "電話",
+    "company": "公司",
+    "country": "國家",
+    "city": "城市",
+    "message": "訊息內容",
+    "products": "石材",
+    "addProduct": "新增石材",
+    "noProducts": "尚未新增石材。",
+    "submit": "送出需求",
+    "required": "此欄位為必填。",
+    "invalidEmail": "請輸入有效的電子郵件地址。",
+    "pickProduct": "請至少新增一款石材。",
+    "privacy": "QJ 僅將這些資料用於回覆您的需求。",
+    "shortlistIncluded": "您的收藏清單將隨此需求一併送出",
+    "thanksTitle": "感謝您。",
+    "thanks": "您的需求已送達 QJ 團隊。您的參考編號為 {reference}。",
+    "another": "再送出一筆需求",
+    "preferredDate": "希望日期",
+    "preferredTime": "希望時段",
+    "morning": "上午",
+    "afternoon": "下午",
+    "evening": "晚上",
+    "consultationType": "諮詢類型",
+    "showroom": "參觀展示間",
+    "site": "現場諮詢",
+    "siteAddress": "現場地址",
+    "projectType": "專案類型",
+    "residential": "住宅",
+    "commercial": "商業空間",
+    "hospitality": "餐旅空間",
+    "areaSize": "約略面積 (m²)",
+    "deliveryAddress": "寄送地址",
+    "enquiryType": "我們能如何協助您？",
+    "general": "一般洽詢",
+    "quotation": "報價需求",
+    "website": "網站",
+    "market": "市場或地區",
+    "experience": "請介紹您的事業",
+    "volume": "預估年用量 (m²)",
+    "warehouse": "是否設有倉庫或展示間",
+    "yes": "是",
+    "no": "否",
+    "orderReference": "訂單或專案編號",
+    "issue": "您需要什麼協助？",
+    "installedDate": "安裝日期",
+    "demoNote": "此為展示版本，您的需求並未實際送出。"
+  },
+  "requests": {
+    "samplesLabel": "樣品",
+    "samplesTitle": [
+      "親手感受石材，",
+      "再做決定。"
+    ],
+    "samplesCopy": "螢幕能呈現的終究有限。請選擇您想親眼看看的石材。",
+    "consultationLabel": "諮詢",
+    "consultationTitle": [
+      "聊聊",
+      "您的空間。"
+    ],
+    "consultationCopy": "歡迎蒞臨展示間，或邀請我們到現場。告訴我們您心儀的石材，以及方便的時間。",
+    "contactLabel": "聯絡我們",
+    "contactTitle": [
+      "聊聊",
+      "石材。"
+    ],
+    "contactCopy": "報價、專案問題，以及其他大小事，都歡迎與我們聯繫。",
+    "offices": "我們的據點",
+    "office": "辦公室",
+    "mobile": "手機",
+    "email": "電子郵件"
+  },
+  "visualiser": {
+    "label": "空間模擬器",
+    "title": [
+      "先在空間裡看見，",
+      "再讓它真正到位。"
+    ],
+    "copy": "將任一款 QJ 石材套用到檯面、地板與牆面，或在您自家空間的照片上試試看。",
+    "presets": "預設空間",
+    "yourPhoto": "您的照片",
+    "rooms": {
+      "kitchen": "廚房",
+      "bathroom": "衛浴",
+      "living": "起居空間"
+    },
+    "zones": {
+      "counter": "檯面",
+      "floor": "地板",
+      "wall": "牆面"
+    },
+    "original": "原始表面",
+    "surfaces": "選擇石材",
+    "search": "搜尋石材",
+    "drag": "拖曳以環視空間",
+    "loading": "空間準備中",
+    "noWebgl": "此裝置無法顯示 3D 空間，請改用照片工具。",
+    "applied": "已套用至此空間",
+    "saveShortlist": "加入收藏",
+    "saveAll": "收藏這些石材",
+    "savedAll": "已加入收藏",
+    "shareLink": "複製此空間連結",
+    "copied": "已複製連結",
+    "request": "索取這些石材的樣品",
+    "disclaimer": "模擬圖僅供參考。自然差異、光線與螢幕設定都會影響呈現效果；指定選用前，請先索取實體樣品。",
+    "uploadTitle": "從一張照片開始",
+    "upload": "上傳照片",
+    "uploadHint": "支援 JPG 或 PNG。於日光下正面拍攝的照片效果最佳。照片僅保留在此裝置上。",
+    "steps": [
+      "上傳您的空間照片。",
+      "依序點選表面的四個角。",
+      "選擇要套用的 QJ 石材。"
+    ],
+    "corners": "第 {count} 個角（共 4 個）",
+    "reset": "重新開始",
+    "another": "標記其他表面",
+    "changePhoto": "更換照片",
+    "download": "下載圖片",
+    "photoAlt": "您的空間套用 QJ 石材後的樣貌"
+  },
+  "resources": {
+    "label": "資源",
+    "title": [
+      "指定 QJ 所需，",
+      "一應俱全。"
+    ],
+    "copy": "型錄、技術資料、保養指南、安裝資訊與設計素材，依您的身分分類整理。",
+    "audience": "我是",
+    "type": "類型",
+    "download": "下載",
+    "audiences": {
+      "all": "所有人",
+      "architects": "建築師",
+      "designers": "設計師",
+      "fabricators": "石材加工業者",
+      "homeowners": "屋主"
+    },
+    "types": {
+      "brochure": "型錄",
+      "technical": "技術資料",
+      "care": "保養指南",
+      "installation": "安裝資訊",
+      "assets": "設計素材"
+    },
+    "empty": "沒有符合該條件的文件。",
+    "dataTitle": "技術資料",
+    "dataCopy": "數據皆依 QJ 公布內容，並標示各項性能的測試標準。",
+    "property": "性能項目",
+    "standard": "測試標準",
+    "result": "測試結果"
+  },
+  "support": {
+    "label": "保養與服務",
+    "nav": {
+      "care": "保養指南",
+      "warranty": "保固",
+      "faq": "常見問題",
+      "after-sales": "售後服務"
+    },
+    "care": {
+      "metaTitle": "石英石保養指南 | QJ Quartz Stone",
+      "metaDescription": "了解如何清潔與保養您的 QJ 石英石。",
+      "title": [
+        "日常好相處。",
+        "保養很省心。"
+      ],
+      "copy": "QJ 石英石為日常生活而生，保養也很簡單。",
+      "published": "QJ 官方資訊",
+      "items": [
+        {
+          "title": "日常清潔",
+          "body": "以溫和肥皂與溫水擦拭即可。QJ 石材的日常保養，只需如此。"
+        },
+        {
+          "title": "免封護",
+          "body": "QJ 石英石切割時無須封護，也無須養護處理或拋光。"
+        },
+        {
+          "title": "耐熱與抗污",
+          "body": "QJ 石材耐熱、抗污，通過 ANSI Z124.6.5.2 污漬測試，且依 NEMA LD3 2000 3.5 測試，沸水對其無影響。"
+        },
+        {
+          "title": "衛生",
+          "body": "QJ 石材含抗菌強化成分，且於 ASTM G 21 測試中未出現真菌或細菌生長。"
+        }
+      ],
+      "draftTitle": "好習慣",
+      "draftItems": [
+        "液體灑出時請盡快擦拭，勿待其乾涸。",
+        "剛離開爐火或烤箱的鍋具，請放在鍋墊或隔熱墊上。",
+        "請使用砧板，避免直接在檯面上切割。",
+        "避免使用去漆劑、烤箱清潔劑與漂白水等強效化學品。"
+      ]
+    },
+    "warranty": {
+      "metaTitle": "石英石保固 | QJ Quartz Stone",
+      "metaDescription": "QJ 石英石提供 10 年原廠保固。",
+      "title": [
+        "十年。",
+        "一份保固。"
+      ],
+      "copy": "每一件 QJ Quartz Stone 產品皆提供 10 年原廠保固。",
+      "pendingTitle": "保固條款",
+      "pendingCopy": "本頁將刊載 QJ 核可的保固條文，架構已準備就緒：",
+      "sections": [
+        "保固涵蓋範圍",
+        "不在保固範圍內的項目",
+        "如何登記安裝資料",
+        "如何提出保固申請"
+      ],
+      "pendingBadge": "條文待 QJ 提供",
+      "cta": "聯絡售後服務"
+    },
+    "faq": {
+      "metaTitle": "石英石常見問題 | QJ Quartz Stone",
+      "metaDescription": "QJ 石英石面材、尺寸、保養與樣品的常見問題解答。",
+      "title": [
+        "好問題。",
+        "明確解答。"
+      ],
+      "copy": "我們最常被問到的問題。",
+      "items": [
+        {
+          "q": "QJ 石英石由什麼製成？",
+          "a": "由多種目數的石英，加上回收材料，與樹脂及高密度顏料混合，再經真空、振動與壓製成大板。"
+        },
+        {
+          "q": "有哪些尺寸？",
+          "a": "標準大板為 3200 × 1600 mm，厚度有 12、20 與 30 mm。20 與 30 mm 亦可依指定尺寸裁切。"
+        },
+        {
+          "q": "石英石需要封護嗎？",
+          "a": "不需要。QJ 石英石切割時無須封護，也無須養護處理或拋光。"
+        },
+        {
+          "q": "該如何清潔？",
+          "a": "以溫和肥皂與溫水擦拭即可。"
+        },
+        {
+          "q": "耐水性如何？",
+          "a": "依 ASTM D 570 測試，QJ 石英石公布的吸水率低於 0.011%。"
+        },
+        {
+          "q": "有提供保固嗎？",
+          "a": "有。QJ 產品提供 10 年原廠保固。"
+        },
+        {
+          "q": "QJ 石英石在哪裡生產？",
+          "a": "QJ 石英石面材於斯里蘭卡與台灣生產。"
+        },
+        {
+          "q": "可以用在哪些地方？",
+          "a": "QJ 石英石可用於廚房檯面、桌面、地板、衛浴、泳池與客廳。"
+        },
+        {
+          "q": "可以先看樣品嗎？",
+          "a": "可以，我們也建議您這麼做。歡迎線上索取樣品或預約諮詢。"
+        },
+        {
+          "q": "是否與經銷商合作？",
+          "a": "是的。各區域經銷商在當地市場協助客戶，也歡迎透過「製造與出口」頁面提出新的洽詢。"
+        }
+      ]
+    },
+    "after-sales": {
+      "metaTitle": "售後服務 | QJ Quartz Stone",
+      "metaDescription": "為已安裝的 QJ 石材取得協助。",
+      "title": [
+        "我們依然在這裡。",
+        "安裝之後，亦然。"
+      ],
+      "copy": "告訴我們您的需求，QJ 將由合適的人員與您聯繫。",
+      "steps": [
+        {
+          "title": "告訴我們",
+          "body": "提供您的訂單或專案編號，以及您注意到的狀況。"
+        },
+        {
+          "title": "我們評估",
+          "body": "您的需求將直接送達 QJ 團隊。"
+        },
+        {
+          "title": "我們跟進",
+          "body": "我們將與您聯繫，說明後續步驟。"
+        }
+      ]
+    }
+  },
+  "manufacturing": {
+    "label": "製造與出口",
+    "title": [
+      "當工藝",
+      "遇上科技。"
+    ],
+    "copy": "從石英原料到成品石材，QJ 以完全垂直整合的商業模式，貫穿整條供應鏈。",
+    "partners": "Queens Ceramic Inc. 數十年來一直是建材領域的先驅。Jaysons Holdings (Pvt) Ltd 則是豪宅與室內裝修、不動產開發、餐旅及礦物貿易領域的市場領導者。兩者攜手，即是 QJ Quartz Stone。",
+    "processLabel": "製程",
+    "processTitle": [
+      "從石英",
+      "到石材。"
+    ],
+    "steps": [
+      {
+        "title": "石英選料",
+        "body": "石英是石英石面材最關鍵的因素。QJ 自全球採購原料，親自查核礦場，並擁有自有礦場與技術，以掌控粒徑、白度與亮度。"
+      },
+      {
+        "title": "大板成型",
+        "body": "多種目數的石英，加上回收材料，與樹脂及高密度顏料混合後，鋪入客製鑄鐵模具，再經真空、振動與壓製。"
+      },
+      {
+        "title": "拋光與品質管制",
+        "body": "壓製後的大板以 80–100 °C 烘烤，再送入鑽石拋光機。拋光後的大板須逐吋檢查瑕疵，合格後才上市。"
+      },
+      {
+        "title": "水資源回收",
+        "body": "QJ 致力於保護環境，設有先進的水資源回收廠，淨化拋光與清潔所用的水。"
+      }
+    ],
+    "qualityLabel": "品質管制",
+    "qualityTitle": [
+      "實際測試。",
+      "公開發布。"
+    ],
+    "qualityCopy": "以下所有數據皆取自 QJ 公布的規格。",
+    "fullData": "查看全部 20 項測試結果",
+    "capabilitiesLabel": "生產能力",
+    "capabilitiesTitle": [
+      "我們",
+      "打造的產品。"
+    ],
+    "capabilities": [
+      {
+        "value": "3200 × 1600",
+        "unit": "mm",
+        "label": "標準大板"
+      },
+      {
+        "value": "12 / 20 / 30",
+        "unit": "mm",
+        "label": "標準厚度"
+      },
+      {
+        "value": "75+",
+        "unit": "",
+        "label": "紋理與顏色"
+      },
+      {
+        "value": "10",
+        "unit": "年",
+        "label": "原廠保固"
+      }
+    ],
+    "customCut": "20 與 30 mm 的材料亦可依指定尺寸裁切。",
+    "exportLabel": "出口與經銷",
+    "exportTitle": [
+      "將 QJ",
+      "帶進您的市場。"
+    ],
+    "exportCopy": "QJ 的區域經銷商服務全球各地客戶。如果您希望在當地市場代理 QJ，歡迎告訴我們您的事業概況。",
+    "community": "每一筆 QJ Quartz Stone 的購買，都為斯里蘭卡偏鄉兒童的教育盡一份心力。"
+  },
+  "journal": {
+    "label": "專欄",
+    "title": [
+      "石材",
+      "札記。"
+    ],
+    "copy": "運用石英進行設計的靈感與指南。",
+    "all": "所有文章",
+    "categories": {
+      "Inside QJ": "走進 QJ",
+      "Guides": "指南",
+      "Design": "設計"
+    },
+    "minutes": "閱讀時間 {count} 分鐘",
+    "back": "所有文章",
+    "empty": "此分類尚無文章。"
+  },
+  "projects": {
+    "label": "完工案例",
+    "title": [
+      "石材的",
+      "實際應用。"
+    ],
+    "copy": "依類別瀏覽，了解 QJ 石材的應用場域，以及所使用的款式。",
+    "all": "所有案例",
+    "categories": {
+      "Kitchens": "廚房",
+      "Bathrooms": "衛浴",
+      "Living": "起居空間",
+      "Hospitality": "餐旅空間"
+    },
+    "location": "地點",
+    "application": "應用空間",
+    "designs": "使用款式",
+    "back": "所有案例",
+    "similar": "開始類似的專案",
+    "sampleNote": "範例內容，用於展示完工案例的呈現方式；上線前將替換為 QJ 實際的專案照片與資訊。"
+  },
+  "notFound": {
+    "title": [
+      "找不到",
+      "這個頁面。"
+    ],
+    "copy": "頁面可能已經搬移，但石材還在您留下它的地方。",
+    "cta": "回到首頁"
+  }
+}
